@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/chinesisch-lern-app/sw.js', { scope: '/chinesisch-lern-app/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Chinesisch-lern-app/sw.js', { scope: '/Chinesisch-lern-app/' })})}
