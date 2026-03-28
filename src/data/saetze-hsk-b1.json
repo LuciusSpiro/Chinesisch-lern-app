@@ -1,0 +1,442 @@
+[
+  {
+    "id": "s001",
+    "zeichen": "他每天骑自行车去上班。",
+    "pinyin": "Tā měitiān qí zìxíngchē qù shàngbān.",
+    "deutsch": "Er fährt jeden Tag mit dem Fahrrad zur Arbeit.",
+    "woerter": ["他", "每天", "骑自行车", "去上班"],
+    "luecke": { "wort": "每天", "position": 1, "alternativen": ["昨天", "一起", "很快"] }
+  },
+  {
+    "id": "s002",
+    "zeichen": "我们明天在图书馆见面吧。",
+    "pinyin": "Wǒmen míngtiān zài túshūguǎn jiànmiàn ba.",
+    "deutsch": "Treffen wir uns morgen in der Bibliothek.",
+    "woerter": ["我们", "明天", "在图书馆", "见面吧"],
+    "luecke": { "wort": "在图书馆", "position": 2, "alternativen": ["在公园", "在家里", "在学校"] }
+  },
+  {
+    "id": "s003",
+    "zeichen": "她已经在北京生活了五年了。",
+    "pinyin": "Tā yǐjīng zài Běijīng shēnghuó le wǔ nián le.",
+    "deutsch": "Sie lebt bereits seit fünf Jahren in Peking.",
+    "woerter": ["她", "已经", "在北京", "生活了", "五年了"],
+    "luecke": { "wort": "已经", "position": 1, "alternativen": ["还没", "一直", "从来"] }
+  },
+  {
+    "id": "s004",
+    "zeichen": "这个问题很难解决。",
+    "pinyin": "Zhège wèntí hěn nán jiějué.",
+    "deutsch": "Dieses Problem ist schwer zu lösen.",
+    "woerter": ["这个问题", "很难", "解决"],
+    "luecke": { "wort": "很难", "position": 1, "alternativen": ["很容易", "很重要", "很有趣"] }
+  },
+  {
+    "id": "s005",
+    "zeichen": "你应该多喝水，少吃甜食。",
+    "pinyin": "Nǐ yīnggāi duō hē shuǐ, shǎo chī tiánshí.",
+    "deutsch": "Du solltest mehr Wasser trinken und weniger Süßes essen.",
+    "woerter": ["你应该", "多喝水", "少吃甜食"],
+    "luecke": { "wort": "多喝水", "position": 1, "alternativen": ["多睡觉", "多运动", "多休息"] }
+  },
+  {
+    "id": "s006",
+    "zeichen": "我觉得学习外语需要很多耐心。",
+    "pinyin": "Wǒ juéde xuéxí wàiyǔ xūyào hěn duō nàixīn.",
+    "deutsch": "Ich finde, dass das Lernen einer Fremdsprache viel Geduld erfordert.",
+    "woerter": ["我觉得", "学习外语", "需要", "很多耐心"],
+    "luecke": { "wort": "需要", "position": 2, "alternativen": ["喜欢", "没有", "失去"] }
+  },
+  {
+    "id": "s007",
+    "zeichen": "我不知道他为什么没来上课。",
+    "pinyin": "Wǒ bù zhīdào tā wèishéme méi lái shàngkè.",
+    "deutsch": "Ich weiß nicht, warum er nicht zum Unterricht gekommen ist.",
+    "woerter": ["我不知道", "他", "为什么", "没来上课"],
+    "luecke": { "wort": "为什么", "position": 2, "alternativen": ["什么时候", "在哪里", "怎么样"] }
+  },
+  {
+    "id": "s008",
+    "zeichen": "最近工作很忙，我没有时间休息。",
+    "pinyin": "Zuìjìn gōngzuò hěn máng, wǒ méiyǒu shíjiān xiūxi.",
+    "deutsch": "Die Arbeit ist in letzter Zeit sehr viel, ich habe keine Zeit zum Ausruhen.",
+    "woerter": ["最近工作很忙", "我", "没有时间", "休息"],
+    "luecke": { "wort": "没有时间", "position": 2, "alternativen": ["有很多时间", "不需要", "不想"] }
+  },
+  {
+    "id": "s009",
+    "zeichen": "他说得很流利，但是写得不太好。",
+    "pinyin": "Tā shuō de hěn liúlì, dànshì xiě de bù tài hǎo.",
+    "deutsch": "Er spricht sehr fließend, aber schreibt nicht so gut.",
+    "woerter": ["他说得很流利", "但是", "写得不太好"],
+    "luecke": { "wort": "但是", "position": 1, "alternativen": ["所以", "因为", "然后"] }
+  },
+  {
+    "id": "s010",
+    "zeichen": "这个城市发展得越来越快了。",
+    "pinyin": "Zhège chéngshì fāzhǎn de yuèlái yuè kuài le.",
+    "deutsch": "Diese Stadt entwickelt sich immer schneller.",
+    "woerter": ["这个城市", "发展得", "越来越快了"],
+    "luecke": { "wort": "越来越快了", "position": 2, "alternativen": ["非常快了", "越来越慢了", "好多了"] }
+  },
+  {
+    "id": "s011",
+    "zeichen": "他把那本书还给图书馆了。",
+    "pinyin": "Tā bǎ nà běn shū huán gěi túshūguǎn le.",
+    "deutsch": "Er hat das Buch an die Bibliothek zurückgegeben.",
+    "woerter": ["他", "把那本书", "还给", "图书馆了"],
+    "luecke": { "wort": "还给", "position": 2, "alternativen": ["放在", "带去", "借给"] }
+  },
+  {
+    "id": "s012",
+    "zeichen": "请你把这件事告诉他。",
+    "pinyin": "Qǐng nǐ bǎ zhè jiàn shì gàosu tā.",
+    "deutsch": "Bitte erzähl ihm von dieser Sache.",
+    "woerter": ["请你", "把这件事", "告诉", "他"],
+    "luecke": { "wort": "告诉", "position": 2, "alternativen": ["问", "帮助", "找到"] }
+  },
+  {
+    "id": "s013",
+    "zeichen": "我把手机放在桌子上了。",
+    "pinyin": "Wǒ bǎ shǒujī fàng zài zhuōzi shàng le.",
+    "deutsch": "Ich habe das Handy auf den Tisch gelegt.",
+    "woerter": ["我", "把手机", "放在", "桌子上了"],
+    "luecke": { "wort": "放在", "position": 2, "alternativen": ["找到", "带走", "送给"] }
+  },
+  {
+    "id": "s014",
+    "zeichen": "她把房间打扫得干干净净。",
+    "pinyin": "Tā bǎ fángjiān dǎsǎo de gāngānjìngjìng.",
+    "deutsch": "Sie hat das Zimmer blitzsauber geputzt.",
+    "woerter": ["她", "把房间", "打扫得", "干干净净"],
+    "luecke": { "wort": "干干净净", "position": 3, "alternativen": ["非常乱", "整整齐齐", "漂漂亮亮"] }
+  },
+  {
+    "id": "s015",
+    "zeichen": "他把作业做完才去玩儿。",
+    "pinyin": "Tā bǎ zuòyè zuò wán cái qù wánr.",
+    "deutsch": "Er hat erst die Hausaufgaben fertig gemacht und dann gespielt.",
+    "woerter": ["他", "把作业", "做完", "才去玩儿"],
+    "luecke": { "wort": "才去玩儿", "position": 3, "alternativen": ["就睡觉了", "去上学了", "然后休息"] }
+  },
+  {
+    "id": "s016",
+    "zeichen": "请把你的护照给我看一下。",
+    "pinyin": "Qǐng bǎ nǐ de hùzhào gěi wǒ kàn yīxià.",
+    "deutsch": "Bitte zeigen Sie mir Ihren Pass.",
+    "woerter": ["请", "把你的护照", "给我", "看一下"],
+    "luecke": { "wort": "给我", "position": 2, "alternativen": ["还回来", "放好", "带走"] }
+  },
+  {
+    "id": "s017",
+    "zeichen": "他把所有的钱都花完了。",
+    "pinyin": "Tā bǎ suǒyǒu de qián dōu huā wán le.",
+    "deutsch": "Er hat das ganze Geld ausgegeben.",
+    "woerter": ["他", "把所有的钱", "都花完了"],
+    "luecke": { "wort": "都花完了", "position": 2, "alternativen": ["都存起来了", "都给了别人", "都找回来了"] }
+  },
+  {
+    "id": "s018",
+    "zeichen": "她把房间整理得非常整齐。",
+    "pinyin": "Tā bǎ fángjiān zhěnglǐ de fēicháng zhěngqí.",
+    "deutsch": "Sie hat das Zimmer sehr ordentlich aufgeräumt.",
+    "woerter": ["她", "把房间", "整理得", "非常整齐"],
+    "luecke": { "wort": "整理得", "position": 2, "alternativen": ["打扫得", "布置得", "弄得"] }
+  },
+  {
+    "id": "s019",
+    "zeichen": "我的自行车被人偷走了。",
+    "pinyin": "Wǒ de zìxíngchē bèi rén tōu zǒu le.",
+    "deutsch": "Mein Fahrrad wurde von jemandem gestohlen.",
+    "woerter": ["我的自行车", "被人", "偷走了"],
+    "luecke": { "wort": "被人", "position": 1, "alternativen": ["被朋友", "被老师", "被小孩"] }
+  },
+  {
+    "id": "s020",
+    "zeichen": "这个问题已经被解决了。",
+    "pinyin": "Zhège wèntí yǐjīng bèi jiějué le.",
+    "deutsch": "Dieses Problem ist bereits gelöst worden.",
+    "woerter": ["这个问题", "已经", "被解决了"],
+    "luecke": { "wort": "已经", "position": 1, "alternativen": ["还没有", "完全", "马上"] }
+  },
+  {
+    "id": "s021",
+    "zeichen": "那封信被妈妈看到了。",
+    "pinyin": "Nà fēng xìn bèi māma kàn dào le.",
+    "deutsch": "Der Brief wurde von der Mutter gesehen.",
+    "woerter": ["那封信", "被妈妈", "看到了"],
+    "luecke": { "wort": "被妈妈", "position": 1, "alternativen": ["被爸爸", "被老师", "被同学"] }
+  },
+  {
+    "id": "s022",
+    "zeichen": "他的建议被大家接受了。",
+    "pinyin": "Tā de jiànyì bèi dàjiā jiēshòu le.",
+    "deutsch": "Sein Vorschlag wurde von allen angenommen.",
+    "woerter": ["他的建议", "被大家", "接受了"],
+    "luecke": { "wort": "接受了", "position": 2, "alternativen": ["拒绝了", "忘记了", "批评了"] }
+  },
+  {
+    "id": "s023",
+    "zeichen": "窗户被风吹开了。",
+    "pinyin": "Chuānghù bèi fēng chuī kāi le.",
+    "deutsch": "Das Fenster wurde vom Wind aufgeblasen.",
+    "woerter": ["窗户", "被风", "吹开了"],
+    "luecke": { "wort": "被风", "position": 1, "alternativen": ["被人", "被水", "被雨"] }
+  },
+  {
+    "id": "s024",
+    "zeichen": "比赛的结果被提前公布了。",
+    "pinyin": "Bǐsài de jiéguǒ bèi tíqián gōngbù le.",
+    "deutsch": "Das Wettkampfergebnis wurde vorzeitig bekanntgegeben.",
+    "woerter": ["比赛的结果", "被提前", "公布了"],
+    "luecke": { "wort": "公布了", "position": 2, "alternativen": ["改变了", "确认了", "取消了"] }
+  },
+  {
+    "id": "s025",
+    "zeichen": "今天比昨天冷多了。",
+    "pinyin": "Jīntiān bǐ zuótiān lěng duō le.",
+    "deutsch": "Heute ist viel kälter als gestern.",
+    "woerter": ["今天", "比", "昨天", "冷多了"],
+    "luecke": { "wort": "比", "position": 1, "alternativen": ["和", "跟", "像"] }
+  },
+  {
+    "id": "s026",
+    "zeichen": "他跑得比我快得多。",
+    "pinyin": "Tā pǎo de bǐ wǒ kuài de duō.",
+    "deutsch": "Er läuft viel schneller als ich.",
+    "woerter": ["他", "跑得", "比我", "快得多"],
+    "luecke": { "wort": "比我", "position": 2, "alternativen": ["跟我", "为我", "帮我"] }
+  },
+  {
+    "id": "s027",
+    "zeichen": "学汉语比我想的难。",
+    "pinyin": "Xué Hànyǔ bǐ wǒ xiǎng de nán.",
+    "deutsch": "Chinesisch zu lernen ist schwieriger als ich dachte.",
+    "woerter": ["学汉语", "比", "我想的", "难"],
+    "luecke": { "wort": "难", "position": 3, "alternativen": ["容易", "有趣", "重要"] }
+  },
+  {
+    "id": "s028",
+    "zeichen": "她比我大两岁。",
+    "pinyin": "Tā bǐ wǒ dà liǎng suì.",
+    "deutsch": "Sie ist zwei Jahre älter als ich.",
+    "woerter": ["她", "比我", "大两岁"],
+    "luecke": { "wort": "大两岁", "position": 2, "alternativen": ["小两岁", "高一点", "重多了"] }
+  },
+  {
+    "id": "s029",
+    "zeichen": "现在的生活比以前好多了。",
+    "pinyin": "Xiànzài de shēnghuó bǐ yǐqián hǎo duō le.",
+    "deutsch": "Das heutige Leben ist viel besser als früher.",
+    "woerter": ["现在的生活", "比", "以前", "好多了"],
+    "luecke": { "wort": "好多了", "position": 3, "alternativen": ["差多了", "难多了", "贵多了"] }
+  },
+  {
+    "id": "s030",
+    "zeichen": "火车比汽车快，但是比飞机慢。",
+    "pinyin": "Huǒchē bǐ qìchē kuài, dànshì bǐ fēijī màn.",
+    "deutsch": "Der Zug ist schneller als das Auto, aber langsamer als das Flugzeug.",
+    "woerter": ["火车", "比汽车快", "但是", "比飞机慢"],
+    "luecke": { "wort": "但是", "position": 2, "alternativen": ["所以", "而且", "因为"] }
+  },
+  {
+    "id": "s031",
+    "zeichen": "这家餐厅的菜比那家好吃。",
+    "pinyin": "Zhè jiā cāntīng de cài bǐ nà jiā hǎochī.",
+    "deutsch": "Das Essen in diesem Restaurant schmeckt besser als in jenem.",
+    "woerter": ["这家餐厅的菜", "比", "那家", "好吃"],
+    "luecke": { "wort": "好吃", "position": 3, "alternativen": ["便宜", "贵", "新鲜"] }
+  },
+  {
+    "id": "s032",
+    "zeichen": "虽然很贵，但是质量非常好。",
+    "pinyin": "Suīrán hěn guì, dànshì zhìliàng fēicháng hǎo.",
+    "deutsch": "Obwohl es teuer ist, ist die Qualität sehr gut.",
+    "woerter": ["虽然", "很贵", "但是", "质量非常好"],
+    "luecke": { "wort": "虽然", "position": 0, "alternativen": ["因为", "如果", "所以"] }
+  },
+  {
+    "id": "s033",
+    "zeichen": "因为下雨，所以我们没去公园。",
+    "pinyin": "Yīnwèi xià yǔ, suǒyǐ wǒmen méi qù gōngyuán.",
+    "deutsch": "Weil es geregnet hat, sind wir nicht in den Park gegangen.",
+    "woerter": ["因为下雨", "所以", "我们", "没去公园"],
+    "luecke": { "wort": "所以", "position": 1, "alternativen": ["但是", "而且", "然后"] }
+  },
+  {
+    "id": "s034",
+    "zeichen": "如果明天不下雨，我们就去爬山。",
+    "pinyin": "Rúguǒ míngtiān bù xià yǔ, wǒmen jiù qù páshān.",
+    "deutsch": "Wenn es morgen nicht regnet, gehen wir auf den Berg.",
+    "woerter": ["如果明天不下雨", "我们", "就去爬山"],
+    "luecke": { "wort": "就去爬山", "position": 2, "alternativen": ["不去了", "会在家", "也要去"] }
+  },
+  {
+    "id": "s035",
+    "zeichen": "因为他努力学习，所以成绩很好。",
+    "pinyin": "Yīnwèi tā nǔlì xuéxí, suǒyǐ chéngjì hěn hǎo.",
+    "deutsch": "Weil er fleißig lernt, sind seine Noten sehr gut.",
+    "woerter": ["因为", "他努力学习", "所以", "成绩很好"],
+    "luecke": { "wort": "所以", "position": 2, "alternativen": ["但是", "虽然", "如果"] }
+  },
+  {
+    "id": "s036",
+    "zeichen": "虽然我很累，但是我还要继续工作。",
+    "pinyin": "Suīrán wǒ hěn lèi, dànshì wǒ hái yào jìxù gōngzuò.",
+    "deutsch": "Obwohl ich sehr müde bin, muss ich trotzdem weiter arbeiten.",
+    "woerter": ["虽然我很累", "但是", "我还要", "继续工作"],
+    "luecke": { "wort": "继续工作", "position": 3, "alternativen": ["休息一下", "回家了", "去玩儿"] }
+  },
+  {
+    "id": "s037",
+    "zeichen": "如果你有问题，可以来问我。",
+    "pinyin": "Rúguǒ nǐ yǒu wèntí, kěyǐ lái wèn wǒ.",
+    "deutsch": "Wenn du Fragen hast, kannst du zu mir kommen.",
+    "woerter": ["如果你有问题", "可以", "来问我"],
+    "luecke": { "wort": "可以", "position": 1, "alternativen": ["不能", "应该", "不用"] }
+  },
+  {
+    "id": "s038",
+    "zeichen": "不管天气怎么样，他都去跑步。",
+    "pinyin": "Bùguǎn tiānqì zěnme yàng, tā dōu qù pǎobù.",
+    "deutsch": "Egal wie das Wetter ist, er geht immer joggen.",
+    "woerter": ["不管天气怎么样", "他都", "去跑步"],
+    "luecke": { "wort": "他都", "position": 1, "alternativen": ["他有时", "他不", "他可能"] }
+  },
+  {
+    "id": "s039",
+    "zeichen": "只要努力，就能成功。",
+    "pinyin": "Zhǐyào nǔlì, jiù néng chénggōng.",
+    "deutsch": "Solange man sich anstrengt, kann man Erfolg haben.",
+    "woerter": ["只要努力", "就能", "成功"],
+    "luecke": { "wort": "就能", "position": 1, "alternativen": ["才能", "不能", "可以"] }
+  },
+  {
+    "id": "s040",
+    "zeichen": "即使很困难，我也不会放弃。",
+    "pinyin": "Jíshǐ hěn kùnnán, wǒ yě bù huì fàngqì.",
+    "deutsch": "Auch wenn es sehr schwierig ist, werde ich nicht aufgeben.",
+    "woerter": ["即使很困难", "我也", "不会放弃"],
+    "luecke": { "wort": "不会放弃", "position": 2, "alternativen": ["继续努力", "很高兴", "想放弃"] }
+  },
+  {
+    "id": "s041",
+    "zeichen": "因为工作太忙，他很少有时间休息。",
+    "pinyin": "Yīnwèi gōngzuò tài máng, tā hěn shǎo yǒu shíjiān xiūxi.",
+    "deutsch": "Weil die Arbeit zu viel ist, hat er selten Zeit zum Ausruhen.",
+    "woerter": ["因为工作太忙", "他很少", "有时间", "休息"],
+    "luecke": { "wort": "他很少", "position": 1, "alternativen": ["他经常", "他每天", "他从来不"] }
+  },
+  {
+    "id": "s042",
+    "zeichen": "她的汉语越来越好了。",
+    "pinyin": "Tā de Hànyǔ yuèlái yuè hǎo le.",
+    "deutsch": "Ihr Chinesisch wird immer besser.",
+    "woerter": ["她的汉语", "越来越", "好了"],
+    "luecke": { "wort": "越来越", "position": 1, "alternativen": ["已经非常", "一点也不", "不再"] }
+  },
+  {
+    "id": "s043",
+    "zeichen": "天气越来越冷，要多穿衣服。",
+    "pinyin": "Tiānqì yuèlái yuè lěng, yào duō chuān yīfu.",
+    "deutsch": "Das Wetter wird immer kälter, man sollte mehr Kleidung tragen.",
+    "woerter": ["天气越来越冷", "要", "多穿衣服"],
+    "luecke": { "wort": "多穿衣服", "position": 2, "alternativen": ["少出门", "注意安全", "早点回家"] }
+  },
+  {
+    "id": "s044",
+    "zeichen": "他一边听音乐，一边做作业。",
+    "pinyin": "Tā yībiān tīng yīnyuè, yībiān zuò zuòyè.",
+    "deutsch": "Er hört Musik und macht gleichzeitig Hausaufgaben.",
+    "woerter": ["他", "一边听音乐", "一边", "做作业"],
+    "luecke": { "wort": "一边", "position": 2, "alternativen": ["然后", "但是", "所以"] }
+  },
+  {
+    "id": "s045",
+    "zeichen": "她一边工作，一边照顾孩子。",
+    "pinyin": "Tā yībiān gōngzuò, yībiān zhàogù háizi.",
+    "deutsch": "Sie arbeitet und kümmert sich gleichzeitig um die Kinder.",
+    "woerter": ["她", "一边工作", "一边", "照顾孩子"],
+    "luecke": { "wort": "一边工作", "position": 1, "alternativen": ["一边学习", "一边唱歌", "一边休息"] }
+  },
+  {
+    "id": "s046",
+    "zeichen": "他不但会说中文，而且还会写汉字。",
+    "pinyin": "Tā bùdàn huì shuō Zhōngwén, érqiě hái huì xiě Hànzì.",
+    "deutsch": "Er kann nicht nur Chinesisch sprechen, sondern auch Schriftzeichen schreiben.",
+    "woerter": ["他不但", "会说中文", "而且", "还会写汉字"],
+    "luecke": { "wort": "而且", "position": 2, "alternativen": ["但是", "所以", "虽然"] }
+  },
+  {
+    "id": "s047",
+    "zeichen": "这里不但风景美，而且空气也很好。",
+    "pinyin": "Zhèlǐ bùdàn fēngjǐng měi, érqiě kōngqì yě hěn hǎo.",
+    "deutsch": "Hier ist nicht nur die Landschaft schön, sondern auch die Luft sehr gut.",
+    "woerter": ["这里不但", "风景美", "而且", "空气也很好"],
+    "luecke": { "wort": "这里不但", "position": 0, "alternativen": ["这里虽然", "这里因为", "这里已经"] }
+  },
+  {
+    "id": "s048",
+    "zeichen": "随着科技的发展，生活变得越来越方便了。",
+    "pinyin": "Suízhe kējì de fāzhǎn, shēnghuó biàn de yuèlái yuè fāngbiàn le.",
+    "deutsch": "Mit der Entwicklung der Technologie wird das Leben immer bequemer.",
+    "woerter": ["随着科技的发展", "生活", "变得越来越", "方便了"],
+    "luecke": { "wort": "变得越来越", "position": 2, "alternativen": ["已经非常", "变得没有", "不再那么"] }
+  },
+  {
+    "id": "s049",
+    "zeichen": "这道题连老师都不会做。",
+    "pinyin": "Zhè dào tí lián lǎoshī dōu bù huì zuò.",
+    "deutsch": "Sogar der Lehrer kann diese Aufgabe nicht lösen.",
+    "woerter": ["这道题", "连老师", "都不会做"],
+    "luecke": { "wort": "连老师", "position": 1, "alternativen": ["连学生", "连父母", "连专家"] }
+  },
+  {
+    "id": "s050",
+    "zeichen": "除了英语，他还会说法语。",
+    "pinyin": "Chúle Yīngyǔ, tā hái huì shuō Fǎyǔ.",
+    "deutsch": "Außer Englisch kann er auch Französisch sprechen.",
+    "woerter": ["除了英语", "他还会", "说法语"],
+    "luecke": { "wort": "他还会", "position": 1, "alternativen": ["他不会", "他已经", "他不想"] }
+  },
+  {
+    "id": "s051",
+    "zeichen": "对学生来说，健康比成绩更重要。",
+    "pinyin": "Duì xuésheng lái shuō, jiànkāng bǐ chéngjì gèng zhòngyào.",
+    "deutsch": "Für Studenten ist Gesundheit wichtiger als Noten.",
+    "woerter": ["对学生来说", "健康", "比成绩", "更重要"],
+    "luecke": { "wort": "更重要", "position": 3, "alternativen": ["不重要", "有意思", "很困难"] }
+  },
+  {
+    "id": "s052",
+    "zeichen": "通过这次经历，我学到了很多。",
+    "pinyin": "Tōngguò zhè cì jīnglì, wǒ xuédào le hěn duō.",
+    "deutsch": "Durch diese Erfahrung habe ich viel gelernt.",
+    "woerter": ["通过这次经历", "我", "学到了", "很多"],
+    "luecke": { "wort": "学到了", "position": 2, "alternativen": ["忘记了", "得到了", "失去了"] }
+  },
+  {
+    "id": "s053",
+    "zeichen": "只有坚持练习，才能进步。",
+    "pinyin": "Zhǐyǒu jiānchí liànxí, cái néng jìnbù.",
+    "deutsch": "Nur durch beständiges Üben kann man Fortschritte machen.",
+    "woerter": ["只有坚持练习", "才能", "进步"],
+    "luecke": { "wort": "才能", "position": 1, "alternativen": ["不能", "可以", "应该"] }
+  },
+  {
+    "id": "s054",
+    "zeichen": "他们是去年在大学认识的。",
+    "pinyin": "Tāmen shì qùnián zài dàxué rènshi de.",
+    "deutsch": "Sie haben sich letztes Jahr an der Universität kennengelernt.",
+    "woerter": ["他们", "是", "去年在大学", "认识的"],
+    "luecke": { "wort": "去年在大学", "position": 2, "alternativen": ["小时候在学校", "上个月在公司", "昨天在朋友家"] }
+  },
+  {
+    "id": "s055",
+    "zeichen": "我们应该保护环境，减少污染。",
+    "pinyin": "Wǒmen yīnggāi bǎohù huánjìng, jiǎnshǎo wūrǎn.",
+    "deutsch": "Wir sollten die Umwelt schützen und die Verschmutzung reduzieren.",
+    "woerter": ["我们应该", "保护环境", "减少污染"],
+    "luecke": { "wort": "保护环境", "position": 1, "alternativen": ["破坏环境", "离开这里", "了解问题"] }
+  }
+]

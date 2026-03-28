@@ -1,0 +1,3591 @@
+[
+  {
+    "zeichen": "安静",
+    "pinyin": "ānjìng",
+    "deutsch": "ruhig, still",
+    "komponenten": {
+      "安": {
+        "pinyin": "ān",
+        "deutsch": "friedlich, ruhig, sicher"
+      },
+      "静": {
+        "pinyin": "jìng",
+        "deutsch": "still, ruhig"
+      }
+    }
+  },
+  {
+    "zeichen": "阿姨",
+    "pinyin": "āyí",
+    "deutsch": "Tante, (ugs.) Putzfrau, (ugs.) Haushälterin",
+    "komponenten": {
+      "阿": {
+        "pinyin": "ā",
+        "deutsch": "Präfix bei Namen und Verwandten"
+      },
+      "姨": {
+        "pinyin": "yí",
+        "deutsch": "Tante (Schwester der Mutter)"
+      }
+    }
+  },
+  {
+    "zeichen": "矮",
+    "pinyin": "ǎi",
+    "deutsch": "klein, niedrig"
+  },
+  {
+    "zeichen": "啊",
+    "pinyin": "à",
+    "deutsch": "ah!, Interjektion"
+  },
+  {
+    "zeichen": "爱好",
+    "pinyin": "àihào",
+    "deutsch": "Hobby, eine Vorliebe für etwas haben",
+    "komponenten": {
+      "爱": {
+        "pinyin": "ài",
+        "deutsch": "lieben, mögen, Liebe"
+      },
+      "好": {
+        "pinyin": "hǎo/hào",
+        "deutsch": "gut, schön; gern mögen"
+      }
+    }
+  },
+  {
+    "zeichen": "搬",
+    "pinyin": "bān",
+    "deutsch": "bewegen, befördern, fortschaffen"
+  },
+  {
+    "zeichen": "班",
+    "pinyin": "bān",
+    "deutsch": "(Schul-)Klasse, Team, Gruppe, regelmäßig"
+  },
+  {
+    "zeichen": "帮忙",
+    "pinyin": "bāngmáng",
+    "deutsch": "helfen, Hilfe, Gefälligkeit",
+    "komponenten": {
+      "帮": {
+        "pinyin": "bāng",
+        "deutsch": "helfen, Gruppe"
+      },
+      "忙": {
+        "pinyin": "máng",
+        "deutsch": "beschäftigt, keine Zeit haben"
+      }
+    }
+  },
+  {
+    "zeichen": "包",
+    "pinyin": "bāo",
+    "deutsch": "einwickeln, verpacken, Paket, Sack, versichern"
+  },
+  {
+    "zeichen": "把",
+    "pinyin": "bǎ",
+    "deutsch": "halten, (ab-)halten, monopolisieren, nahe bei etwas"
+  },
+  {
+    "zeichen": "饱",
+    "pinyin": "bǎo",
+    "deutsch": "satt (sein), befriedigen, voll"
+  },
+  {
+    "zeichen": "半",
+    "pinyin": "bàn",
+    "deutsch": "halb"
+  },
+  {
+    "zeichen": "办法",
+    "pinyin": "bànfǎ",
+    "deutsch": "Methode, Möglichkeit, Weg",
+    "komponenten": {
+      "办": {
+        "pinyin": "bàn",
+        "deutsch": "erledigen, organisieren"
+      },
+      "法": {
+        "pinyin": "fǎ",
+        "deutsch": "Methode, Gesetz, Frankreich"
+      }
+    }
+  },
+  {
+    "zeichen": "办公室",
+    "pinyin": "bàngōngshì",
+    "deutsch": "Büro",
+    "komponenten": {
+      "办": {
+        "pinyin": "bàn",
+        "deutsch": "erledigen, organisieren"
+      },
+      "公": {
+        "pinyin": "gōng",
+        "deutsch": "öffentlich, gemeinsam"
+      },
+      "室": {
+        "pinyin": "shì",
+        "deutsch": "Zimmer, Raum"
+      }
+    }
+  },
+  {
+    "zeichen": "北方",
+    "pinyin": "běifāng",
+    "deutsch": "Nord, Norden, Nordchina",
+    "komponenten": {
+      "北": {
+        "pinyin": "běi",
+        "deutsch": "Norden"
+      },
+      "方": {
+        "pinyin": "fāng",
+        "deutsch": "Richtung, Methode, quadratisch"
+      }
+    }
+  },
+  {
+    "zeichen": "被",
+    "pinyin": "bèi",
+    "deutsch": "von, Bettdecke"
+  },
+  {
+    "zeichen": "宾馆",
+    "pinyin": "bīnguǎn",
+    "deutsch": "Hotel, Gästehaus",
+    "komponenten": {
+      "宾": {
+        "pinyin": "bīn",
+        "deutsch": "Gast (formell), Besucher"
+      },
+      "馆": {
+        "pinyin": "guǎn",
+        "deutsch": "Gebäude, Lokal, Institut"
+      }
+    }
+  },
+  {
+    "zeichen": "冰箱",
+    "pinyin": "bīngxiāng",
+    "deutsch": "Kühlschrank, Kühltruhe, Kühlbox",
+    "komponenten": {
+      "冰": {
+        "pinyin": "bīng",
+        "deutsch": "Eis"
+      },
+      "箱": {
+        "pinyin": "xiāng",
+        "deutsch": "Schachtel, Koffer, Kiste"
+      }
+    }
+  },
+  {
+    "zeichen": "鼻子",
+    "pinyin": "bízi",
+    "deutsch": "Nase",
+    "komponenten": {
+      "鼻": {
+        "pinyin": "bí",
+        "deutsch": "Nase"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "比较",
+    "pinyin": "bǐjiào",
+    "deutsch": "verhältnismäßig, Vergleich, relativ",
+    "komponenten": {
+      "比": {
+        "pinyin": "bǐ",
+        "deutsch": "vergleichen, als (Vergleich)"
+      },
+      "较": {
+        "pinyin": "jiào",
+        "deutsch": "vergleichen, relativ, etwas"
+      }
+    }
+  },
+  {
+    "zeichen": "比赛",
+    "pinyin": "bǐsài",
+    "deutsch": "Wettkampf, um die Wette kämpfen",
+    "komponenten": {
+      "比": {
+        "pinyin": "bǐ",
+        "deutsch": "vergleichen, als (Vergleich)"
+      },
+      "赛": {
+        "pinyin": "sài",
+        "deutsch": "Wettkampf, Wettbewerb"
+      }
+    }
+  },
+  {
+    "zeichen": "必须",
+    "pinyin": "bìxū",
+    "deutsch": "müssen",
+    "komponenten": {
+      "必": {
+        "pinyin": "bì",
+        "deutsch": "müssen, unbedingt"
+      },
+      "须": {
+        "pinyin": "xū",
+        "deutsch": "müssen, brauchen; Bart"
+      }
+    }
+  },
+  {
+    "zeichen": "表示",
+    "pinyin": "biǎoshì",
+    "deutsch": "anzeigen, ausdrücken, äußern",
+    "komponenten": {
+      "表": {
+        "pinyin": "biǎo",
+        "deutsch": "zeigen, Oberfläche, Tabelle, Uhr"
+      },
+      "示": {
+        "pinyin": "shì",
+        "deutsch": "zeigen, anzeigen"
+      }
+    }
+  },
+  {
+    "zeichen": "表演",
+    "pinyin": "biǎoyǎn",
+    "deutsch": "aufführen, darstellen, Aufführung",
+    "komponenten": {
+      "表": {
+        "pinyin": "biǎo",
+        "deutsch": "zeigen, Oberfläche, Tabelle, Uhr"
+      },
+      "演": {
+        "pinyin": "yǎn",
+        "deutsch": "aufführen, spielen, darstellen"
+      }
+    }
+  },
+  {
+    "zeichen": "变化",
+    "pinyin": "biànhuà",
+    "deutsch": "verändern, Veränderung",
+    "komponenten": {
+      "变": {
+        "pinyin": "biàn",
+        "deutsch": "verändern, wechseln"
+      },
+      "化": {
+        "pinyin": "huà",
+        "deutsch": "verwandeln, -isieren"
+      }
+    }
+  },
+  {
+    "zeichen": "别人",
+    "pinyin": "biérén",
+    "deutsch": "die anderen",
+    "komponenten": {
+      "别": {
+        "pinyin": "bié",
+        "deutsch": "anderer; trennen; nicht (tun)"
+      },
+      "人": {
+        "pinyin": "rén",
+        "deutsch": "Mensch, Person"
+      }
+    }
+  },
+  {
+    "zeichen": "参加",
+    "pinyin": "cānjiā",
+    "deutsch": "teilnehmen",
+    "komponenten": {
+      "参": {
+        "pinyin": "cān",
+        "deutsch": "teilnehmen, mitmachen"
+      },
+      "加": {
+        "pinyin": "jiā",
+        "deutsch": "hinzufügen, erhöhen"
+      }
+    }
+  },
+  {
+    "zeichen": "才",
+    "pinyin": "cái",
+    "deutsch": "gerade, Fähigkeit, nur, erst"
+  },
+  {
+    "zeichen": "草",
+    "pinyin": "cǎo",
+    "deutsch": "Gras, Kräuter, Heu, Stroh, unordentlich, entwerfen"
+  },
+  {
+    "zeichen": "菜单",
+    "pinyin": "càidān",
+    "deutsch": "Speisekarte, Menü",
+    "komponenten": {
+      "菜": {
+        "pinyin": "cài",
+        "deutsch": "Gemüse, Gericht, Speise"
+      },
+      "单": {
+        "pinyin": "dān",
+        "deutsch": "einzeln, Liste, einfach"
+      }
+    }
+  },
+  {
+    "zeichen": "层",
+    "pinyin": "céng",
+    "deutsch": "Schicht, Stockwerk, übereinanderliegend, Belag"
+  },
+  {
+    "zeichen": "超市",
+    "pinyin": "chāoshì",
+    "deutsch": "Supermarkt",
+    "komponenten": {
+      "超": {
+        "pinyin": "chāo",
+        "deutsch": "überschreiten, super, übersteigen"
+      },
+      "市": {
+        "pinyin": "shì",
+        "deutsch": "Markt, Stadt"
+      }
+    }
+  },
+  {
+    "zeichen": "差",
+    "pinyin": "chà",
+    "deutsch": "fehlen, schlecht"
+  },
+  {
+    "zeichen": "成绩",
+    "pinyin": "chéngjī",
+    "deutsch": "Errungenschaft, Leistung, Resultat",
+    "komponenten": {
+      "成": {
+        "pinyin": "chéng",
+        "deutsch": "erreichen, werden, erfolgreich"
+      },
+      "绩": {
+        "pinyin": "jì",
+        "deutsch": "Leistung, Ergebnis, Verdienst"
+      }
+    }
+  },
+  {
+    "zeichen": "城市",
+    "pinyin": "chéngshì",
+    "deutsch": "Stadt",
+    "komponenten": {
+      "城": {
+        "pinyin": "chéng",
+        "deutsch": "Stadtmauer, Stadt"
+      },
+      "市": {
+        "pinyin": "shì",
+        "deutsch": "Markt, Stadt"
+      }
+    }
+  },
+  {
+    "zeichen": "衬衫",
+    "pinyin": "chènshān",
+    "deutsch": "Hemd, Bluse",
+    "komponenten": {
+      "衬": {
+        "pinyin": "chèn",
+        "deutsch": "Unterkleidung, Unterlage"
+      },
+      "衫": {
+        "pinyin": "shān",
+        "deutsch": "Hemd, Oberteil, leichte Jacke"
+      }
+    }
+  },
+  {
+    "zeichen": "迟到",
+    "pinyin": "chídào",
+    "deutsch": "sich verspäten, Verspätung",
+    "komponenten": {
+      "迟": {
+        "pinyin": "chí",
+        "deutsch": "spät, langsam"
+      },
+      "到": {
+        "pinyin": "dào",
+        "deutsch": "ankommen, erreichen, bis"
+      }
+    }
+  },
+  {
+    "zeichen": "春",
+    "pinyin": "chūn",
+    "deutsch": "Frühling"
+  },
+  {
+    "zeichen": "出现",
+    "pinyin": "chūxiàn",
+    "deutsch": "auftauchen, vorkommen, entstehen, erscheinen, auftreten",
+    "komponenten": {
+      "出": {
+        "pinyin": "chū",
+        "deutsch": "herauskommen, ausgehen"
+      },
+      "现": {
+        "pinyin": "xiàn",
+        "deutsch": "erscheinen, gegenwärtig, jetzt"
+      }
+    }
+  },
+  {
+    "zeichen": "厨房",
+    "pinyin": "chúfáng",
+    "deutsch": "Küche",
+    "komponenten": {
+      "厨": {
+        "pinyin": "chú",
+        "deutsch": "Küche, Koch"
+      },
+      "房": {
+        "pinyin": "fáng",
+        "deutsch": "Zimmer, Haus, Raum"
+      }
+    }
+  },
+  {
+    "zeichen": "除了",
+    "pinyin": "chúle",
+    "deutsch": "außer, abgesehen von, mit Ausnahme von, außer wenn",
+    "komponenten": {
+      "除": {
+        "pinyin": "chú",
+        "deutsch": "außer, teilen, entfernen"
+      },
+      "了": {
+        "pinyin": "le/liǎo",
+        "deutsch": "Abschlusspartikel; beenden"
+      }
+    }
+  },
+  {
+    "zeichen": "词语",
+    "pinyin": "cíyǔ",
+    "deutsch": "Wort, Ausdruck, Bezeichnung",
+    "komponenten": {
+      "词": {
+        "pinyin": "cí",
+        "deutsch": "Wort, Vokabel"
+      },
+      "语": {
+        "pinyin": "yǔ",
+        "deutsch": "Sprache, Aussage"
+      }
+    }
+  },
+  {
+    "zeichen": "聪明",
+    "pinyin": "cōngming",
+    "deutsch": "intelligent, klug",
+    "komponenten": {
+      "聪": {
+        "pinyin": "cōng",
+        "deutsch": "klug, scharfhörig, intelligent"
+      },
+      "明": {
+        "pinyin": "míng",
+        "deutsch": "hell, klar, verständlich"
+      }
+    }
+  },
+  {
+    "zeichen": "当然",
+    "pinyin": "dāngrán",
+    "deutsch": "sicherlich",
+    "komponenten": {
+      "当": {
+        "pinyin": "dāng",
+        "deutsch": "wenn, als, als... dienen, gegenüber"
+      },
+      "然": {
+        "pinyin": "rán",
+        "deutsch": "so, natürlich, dann"
+      }
+    }
+  },
+  {
+    "zeichen": "担心",
+    "pinyin": "dānxīn",
+    "deutsch": "sich Sorgen machen, Besorgnis, Sorge",
+    "komponenten": {
+      "担": {
+        "pinyin": "dān",
+        "deutsch": "tragen (Verantwortung), Sorgen"
+      },
+      "心": {
+        "pinyin": "xīn",
+        "deutsch": "Herz, Geist, Mitte"
+      }
+    }
+  },
+  {
+    "zeichen": "打扫",
+    "pinyin": "dǎsǎo",
+    "deutsch": "reinigen, aufräumen",
+    "komponenten": {
+      "打": {
+        "pinyin": "dǎ",
+        "deutsch": "schlagen, machen, spielen"
+      },
+      "扫": {
+        "pinyin": "sǎo",
+        "deutsch": "fegen, kehren"
+      }
+    }
+  },
+  {
+    "zeichen": "打算",
+    "pinyin": "dǎsuàn",
+    "deutsch": "Planung, planen, vorhaben",
+    "komponenten": {
+      "打": {
+        "pinyin": "dǎ",
+        "deutsch": "schlagen, machen, spielen"
+      },
+      "算": {
+        "pinyin": "suàn",
+        "deutsch": "rechnen, planen, als gelten"
+      }
+    }
+  },
+  {
+    "zeichen": "带",
+    "pinyin": "dài",
+    "deutsch": "mitnehmen, mitbringen, tragen, Zone, Gürtel, Band"
+  },
+  {
+    "zeichen": "蛋糕",
+    "pinyin": "dàngāo",
+    "deutsch": "Kuchen",
+    "komponenten": {
+      "蛋": {
+        "pinyin": "dàn",
+        "deutsch": "Ei"
+      },
+      "糕": {
+        "pinyin": "gāo",
+        "deutsch": "Kuchen, Torte"
+      }
+    }
+  },
+  {
+    "zeichen": "地",
+    "pinyin": "de",
+    "deutsch": "Partikel"
+  },
+  {
+    "zeichen": "灯",
+    "pinyin": "dēng",
+    "deutsch": "Lampe, Leuchte, Brenner"
+  },
+  {
+    "zeichen": "低",
+    "pinyin": "dī",
+    "deutsch": "niedrig, tief"
+  },
+  {
+    "zeichen": "地方",
+    "pinyin": "dìfāng",
+    "deutsch": "Ort, Region",
+    "komponenten": {
+      "地": {
+        "pinyin": "de",
+        "deutsch": "Partikel"
+      },
+      "方": {
+        "pinyin": "fāng",
+        "deutsch": "Richtung, Methode, quadratisch"
+      }
+    }
+  },
+  {
+    "zeichen": "地铁",
+    "pinyin": "dìtiě",
+    "deutsch": "U-Bahn",
+    "komponenten": {
+      "地": {
+        "pinyin": "de",
+        "deutsch": "Partikel"
+      },
+      "铁": {
+        "pinyin": "tiě",
+        "deutsch": "Eisen"
+      }
+    }
+  },
+  {
+    "zeichen": "地图",
+    "pinyin": "dìtú",
+    "deutsch": "(Land-)Karte",
+    "komponenten": {
+      "地": {
+        "pinyin": "de",
+        "deutsch": "Partikel"
+      },
+      "图": {
+        "pinyin": "tú",
+        "deutsch": "Bild, Karte, planen"
+      }
+    }
+  },
+  {
+    "zeichen": "电梯",
+    "pinyin": "diàntī",
+    "deutsch": "Aufzug",
+    "komponenten": {
+      "电": {
+        "pinyin": "diàn",
+        "deutsch": "Elektrizität, Blitz, elektrisch"
+      },
+      "梯": {
+        "pinyin": "tī",
+        "deutsch": "Leiter, Treppe"
+      }
+    }
+  },
+  {
+    "zeichen": "电子邮件",
+    "pinyin": "diànzǐyóujiàn",
+    "deutsch": "E-Mail, Email",
+    "komponenten": {
+      "电": {
+        "pinyin": "diàn",
+        "deutsch": "Elektrizität, Blitz, elektrisch"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      },
+      "邮": {
+        "pinyin": "yóu",
+        "deutsch": "Post, Email, Briefmarke"
+      },
+      "件": {
+        "pinyin": "jiàn",
+        "deutsch": "Stück, Sache, Artikel"
+      }
+    }
+  },
+  {
+    "zeichen": "东",
+    "pinyin": "dōng",
+    "deutsch": "Osten, östlich"
+  },
+  {
+    "zeichen": "冬",
+    "pinyin": "dōng",
+    "deutsch": "Winter"
+  },
+  {
+    "zeichen": "动物",
+    "pinyin": "dòngwù",
+    "deutsch": "Tier",
+    "komponenten": {
+      "动": {
+        "pinyin": "dòng",
+        "deutsch": "bewegen, in Bewegung"
+      },
+      "物": {
+        "pinyin": "wù",
+        "deutsch": "Ding, Sache, Gegenstand"
+      }
+    }
+  },
+  {
+    "zeichen": "短",
+    "pinyin": "duǎn",
+    "deutsch": "kurz, fehlen, mangeln, Mangel"
+  },
+  {
+    "zeichen": "段",
+    "pinyin": "duàn",
+    "deutsch": "Abschnitt"
+  },
+  {
+    "zeichen": "锻炼",
+    "pinyin": "duànliàn",
+    "deutsch": "trainieren, (sich) abhärten",
+    "komponenten": {
+      "锻": {
+        "pinyin": "duàn",
+        "deutsch": "schmieden, trainieren"
+      },
+      "炼": {
+        "pinyin": "liàn",
+        "deutsch": "trainieren, schmelzen, läutern"
+      }
+    }
+  },
+  {
+    "zeichen": "多么",
+    "pinyin": "duōme",
+    "deutsch": "wie (sehr), welch ein",
+    "komponenten": {
+      "多": {
+        "pinyin": "duō",
+        "deutsch": "viel, mehr"
+      },
+      "么": {
+        "pinyin": "me",
+        "deutsch": "Fragepartikel"
+      }
+    }
+  },
+  {
+    "zeichen": "而且",
+    "pinyin": "érqiě",
+    "deutsch": "sondern auch, außerdem",
+    "komponenten": {
+      "而": {
+        "pinyin": "ér",
+        "deutsch": "und, aber, jedoch"
+      },
+      "且": {
+        "pinyin": "qiě",
+        "deutsch": "außerdem, noch"
+      }
+    }
+  },
+  {
+    "zeichen": "耳朵",
+    "pinyin": "ěrduo",
+    "deutsch": "Ohr",
+    "komponenten": {
+      "耳": {
+        "pinyin": "ěr",
+        "deutsch": "Ohr"
+      },
+      "朵": {
+        "pinyin": "duǒ",
+        "deutsch": "Zählwort für Blumen und Wolken"
+      }
+    }
+  },
+  {
+    "zeichen": "饿",
+    "pinyin": "è",
+    "deutsch": "hungrig"
+  },
+  {
+    "zeichen": "方便",
+    "pinyin": "fāngbiàn",
+    "deutsch": "angenehm, Annehmlichkeit, günstig, Toilette aufsuchen",
+    "komponenten": {
+      "方": {
+        "pinyin": "fāng",
+        "deutsch": "Richtung, Methode, quadratisch"
+      },
+      "便": {
+        "pinyin": "biàn",
+        "deutsch": "bequem; dann; günstig"
+      }
+    }
+  },
+  {
+    "zeichen": "发烧",
+    "pinyin": "fāshāo",
+    "deutsch": "Fieber, Fieber haben",
+    "komponenten": {
+      "发": {
+        "pinyin": "fā/fà",
+        "deutsch": "entwickeln, schicken; Haar"
+      },
+      "烧": {
+        "pinyin": "shāo",
+        "deutsch": "brennen, kochen, Fieber haben"
+      }
+    }
+  },
+  {
+    "zeichen": "发现",
+    "pinyin": "fāxiàn",
+    "deutsch": "entdecken, Entdeckung, aufspüren, finden, hinter etw. kommen",
+    "komponenten": {
+      "发": {
+        "pinyin": "fā/fà",
+        "deutsch": "entwickeln, schicken; Haar"
+      },
+      "现": {
+        "pinyin": "xiàn",
+        "deutsch": "erscheinen, gegenwärtig, jetzt"
+      }
+    }
+  },
+  {
+    "zeichen": "放",
+    "pinyin": "fàng",
+    "deutsch": "stellen, legen"
+  },
+  {
+    "zeichen": "放心",
+    "pinyin": "fàng xīn",
+    "deutsch": "beruhigt sein, erleichtert sein",
+    "komponenten": {
+      "放": {
+        "pinyin": "fàng",
+        "deutsch": "stellen, legen"
+      },
+      "心": {
+        "pinyin": "xīn",
+        "deutsch": "Herz, Geist, Mitte"
+      }
+    }
+  },
+  {
+    "zeichen": "分",
+    "pinyin": "fēn",
+    "deutsch": "(ver-)teilen, Minute, unterscheiden, Maßeinheit"
+  },
+  {
+    "zeichen": "附近",
+    "pinyin": "fùjìn",
+    "deutsch": "nahe bei, Nähe",
+    "komponenten": {
+      "附": {
+        "pinyin": "fù",
+        "deutsch": "anhängen, nahe bei"
+      },
+      "近": {
+        "pinyin": "jìn",
+        "deutsch": "nahe, kürzlich, fast"
+      }
+    }
+  },
+  {
+    "zeichen": "复习",
+    "pinyin": "fùxí",
+    "deutsch": "wiederholen",
+    "komponenten": {
+      "复": {
+        "pinyin": "fù",
+        "deutsch": "wiederholen, zurück"
+      },
+      "习": {
+        "pinyin": "xí",
+        "deutsch": "üben, Gewohnheit"
+      }
+    }
+  },
+  {
+    "zeichen": "刚才",
+    "pinyin": "gāngcái",
+    "deutsch": "gerade eben",
+    "komponenten": {
+      "刚": {
+        "pinyin": "gāng",
+        "deutsch": "gerade eben, hart, genau"
+      },
+      "才": {
+        "pinyin": "cái",
+        "deutsch": "gerade, Fähigkeit, nur, erst"
+      }
+    }
+  },
+  {
+    "zeichen": "干净",
+    "pinyin": "gānjìng",
+    "deutsch": "sauber",
+    "komponenten": {
+      "干": {
+        "pinyin": "gān/gàn",
+        "deutsch": "trocken; machen, tun"
+      },
+      "净": {
+        "pinyin": "jìng",
+        "deutsch": "sauber, rein"
+      }
+    }
+  },
+  {
+    "zeichen": "敢",
+    "pinyin": "gǎn",
+    "deutsch": "wagen, mutig"
+  },
+  {
+    "zeichen": "感冒",
+    "pinyin": "gǎnmào",
+    "deutsch": "sich erkälten, Erkältung",
+    "komponenten": {
+      "感": {
+        "pinyin": "gǎn",
+        "deutsch": "fühlen, empfinden"
+      },
+      "冒": {
+        "pinyin": "mào",
+        "deutsch": "wagen, vortäuschen, austreten"
+      }
+    }
+  },
+  {
+    "zeichen": "跟",
+    "pinyin": "gēn",
+    "deutsch": "mit, Ferse, folgen, und"
+  },
+  {
+    "zeichen": "根据",
+    "pinyin": "gēnjù",
+    "deutsch": "anhand, Begründung, gemäß, gestützt auf, Grundlage",
+    "komponenten": {
+      "根": {
+        "pinyin": "gēn",
+        "deutsch": "Wurzel, Grundlage"
+      },
+      "据": {
+        "pinyin": "jù",
+        "deutsch": "stützen auf, Grundlage, gemäß"
+      }
+    }
+  },
+  {
+    "zeichen": "更",
+    "pinyin": "gèng",
+    "deutsch": "mehr"
+  },
+  {
+    "zeichen": "公园",
+    "pinyin": "gōngyuán",
+    "deutsch": "Park",
+    "komponenten": {
+      "公": {
+        "pinyin": "gōng",
+        "deutsch": "öffentlich, gemeinsam"
+      },
+      "园": {
+        "pinyin": "yuán",
+        "deutsch": "Garten, Park, Anlage"
+      }
+    }
+  },
+  {
+    "zeichen": "故事",
+    "pinyin": "gùshi",
+    "deutsch": "Geschichte",
+    "komponenten": {
+      "故": {
+        "pinyin": "gù",
+        "deutsch": "alt, deshalb, Grund, Vorfall"
+      },
+      "事": {
+        "pinyin": "shì",
+        "deutsch": "Sache, Angelegenheit"
+      }
+    }
+  },
+  {
+    "zeichen": "刮风",
+    "pinyin": "guāféng",
+    "deutsch": "windig",
+    "komponenten": {
+      "刮": {
+        "pinyin": "guā",
+        "deutsch": "schaben, wehen"
+      },
+      "风": {
+        "pinyin": "fēng",
+        "deutsch": "Wind, Stil"
+      }
+    }
+  },
+  {
+    "zeichen": "关",
+    "pinyin": "guān",
+    "deutsch": "schließen, betreffen"
+  },
+  {
+    "zeichen": "关心",
+    "pinyin": "guānxīn",
+    "deutsch": "(sich um jemanden) kümmern",
+    "komponenten": {
+      "关": {
+        "pinyin": "guān",
+        "deutsch": "schließen, betreffen"
+      },
+      "心": {
+        "pinyin": "xīn",
+        "deutsch": "Herz, Geist, Mitte"
+      }
+    }
+  },
+  {
+    "zeichen": "关系",
+    "pinyin": "guānxì",
+    "deutsch": "in Beziehung stehen, Beziehung",
+    "komponenten": {
+      "关": {
+        "pinyin": "guān",
+        "deutsch": "schließen, betreffen"
+      },
+      "系": {
+        "pinyin": "xì",
+        "deutsch": "System, binden, Verbindung"
+      }
+    }
+  },
+  {
+    "zeichen": "关于",
+    "pinyin": "guānyú",
+    "deutsch": "über, in Bezug auf, zu, hinsichtlich",
+    "komponenten": {
+      "关": {
+        "pinyin": "guān",
+        "deutsch": "schließen, betreffen"
+      },
+      "于": {
+        "pinyin": "yú",
+        "deutsch": "an, bei, zu, gegenüber"
+      }
+    }
+  },
+  {
+    "zeichen": "国家",
+    "pinyin": "guójiā",
+    "deutsch": "Staat",
+    "komponenten": {
+      "国": {
+        "pinyin": "guó",
+        "deutsch": "Land, Nation, Staat"
+      },
+      "家": {
+        "pinyin": "jiā",
+        "deutsch": "Familie, Haus, Zuhause"
+      }
+    }
+  },
+  {
+    "zeichen": "果汁",
+    "pinyin": "guǒzhī",
+    "deutsch": "Obstsaft, Fruchtsaft",
+    "komponenten": {
+      "果": {
+        "pinyin": "guǒ",
+        "deutsch": "Frucht, Ergebnis, wenn dann"
+      },
+      "汁": {
+        "pinyin": "zhī",
+        "deutsch": "Saft, Flüssigkeit"
+      }
+    }
+  },
+  {
+    "zeichen": "过去",
+    "pinyin": "guòqù",
+    "deutsch": "Vergangenheit, in der Vergangenheit, früher",
+    "komponenten": {
+      "过": {
+        "pinyin": "guò",
+        "deutsch": "vergehen, durch, überschreiten"
+      },
+      "去": {
+        "pinyin": "qù",
+        "deutsch": "gehen, weg, vergehen"
+      }
+    }
+  },
+  {
+    "zeichen": "还是",
+    "pinyin": "háishì",
+    "deutsch": "oder, trotzdem, immer noch, man sollte lieber…",
+    "komponenten": {
+      "还": {
+        "pinyin": "huán",
+        "deutsch": "erwidern, zurückgeben, rückkehren"
+      },
+      "是": {
+        "pinyin": "shì",
+        "deutsch": "sein, ist"
+      }
+    }
+  },
+  {
+    "zeichen": "害怕",
+    "pinyin": "hàipà",
+    "deutsch": "sich fürchten, Furcht, Angst haben, sich gruseln",
+    "komponenten": {
+      "害": {
+        "pinyin": "hài",
+        "deutsch": "schaden, schädlich"
+      },
+      "怕": {
+        "pinyin": "pà",
+        "deutsch": "fürchten, Angst haben"
+      }
+    }
+  },
+  {
+    "zeichen": "黑板",
+    "pinyin": "hēibǎn",
+    "deutsch": "Tafel",
+    "komponenten": {
+      "黑": {
+        "pinyin": "hēi",
+        "deutsch": "schwarz, dunkel"
+      },
+      "板": {
+        "pinyin": "bǎn",
+        "deutsch": "Brett, Platte, steif"
+      }
+    }
+  },
+  {
+    "zeichen": "河",
+    "pinyin": "hé",
+    "deutsch": "Fluss"
+  },
+  {
+    "zeichen": "护照",
+    "pinyin": "hùzhào",
+    "deutsch": "Pass, Reisedokument",
+    "komponenten": {
+      "护": {
+        "pinyin": "hù",
+        "deutsch": "schützen, pflegen"
+      },
+      "照": {
+        "pinyin": "zhào",
+        "deutsch": "leuchten, Foto machen, betreuen"
+      }
+    }
+  },
+  {
+    "zeichen": "花",
+    "pinyin": "huā",
+    "deutsch": "Blume, bunt, Muster, verschwommen, ausgeben"
+  },
+  {
+    "zeichen": "花园",
+    "pinyin": "huāyuán",
+    "deutsch": "Garten",
+    "komponenten": {
+      "花": {
+        "pinyin": "huā",
+        "deutsch": "Blume, bunt, Muster, verschwommen, ausgeben"
+      },
+      "园": {
+        "pinyin": "yuán",
+        "deutsch": "Garten, Park, Anlage"
+      }
+    }
+  },
+  {
+    "zeichen": "还",
+    "pinyin": "huán",
+    "deutsch": "erwidern, zurückgeben, rückkehren"
+  },
+  {
+    "zeichen": "黄",
+    "pinyin": "huáng",
+    "deutsch": "gelb"
+  },
+  {
+    "zeichen": "环境",
+    "pinyin": "huánjìng",
+    "deutsch": "Umgebung, Umwelt, Umstände, Kontext, Milieu",
+    "komponenten": {
+      "环": {
+        "pinyin": "huán",
+        "deutsch": "Ring, Umgebung, umgeben"
+      },
+      "境": {
+        "pinyin": "jìng",
+        "deutsch": "Grenze, Umgebung, Zustand"
+      }
+    }
+  },
+  {
+    "zeichen": "画",
+    "pinyin": "huà",
+    "deutsch": "malen, Bild"
+  },
+  {
+    "zeichen": "坏",
+    "pinyin": "huài",
+    "deutsch": "schlecht, schlimm, verderben, kaputtgehen, schlecht werden"
+  },
+  {
+    "zeichen": "换",
+    "pinyin": "huàn",
+    "deutsch": "tauschen, wechseln, Austausch"
+  },
+  {
+    "zeichen": "会议",
+    "pinyin": "huìyì",
+    "deutsch": "Konferenz, Besprechung, Tagung, Meeting, Kongress",
+    "komponenten": {
+      "会": {
+        "pinyin": "huì",
+        "deutsch": "können; sich treffen; Gelegenheit"
+      },
+      "议": {
+        "pinyin": "yì",
+        "deutsch": "diskutieren, besprechen, Meinung"
+      }
+    }
+  },
+  {
+    "zeichen": "或者",
+    "pinyin": "huòzhě",
+    "deutsch": "oder, vielleicht",
+    "komponenten": {
+      "或": {
+        "pinyin": "huò",
+        "deutsch": "oder, vielleicht"
+      },
+      "者": {
+        "pinyin": "zhě",
+        "deutsch": "Person, -er (Suffix für Personen)"
+      }
+    }
+  },
+  {
+    "zeichen": "几乎",
+    "pinyin": "jīhū",
+    "deutsch": "fast, nahezu, annährend, ungefähr",
+    "komponenten": {
+      "几": {
+        "pinyin": "jǐ/jī",
+        "deutsch": "wie viele; fast, beinahe"
+      },
+      "乎": {
+        "pinyin": "hū",
+        "deutsch": "Partikel"
+      }
+    }
+  },
+  {
+    "zeichen": "机会",
+    "pinyin": "jīhuì",
+    "deutsch": "Chance, Gelegenheit",
+    "komponenten": {
+      "机": {
+        "pinyin": "jī",
+        "deutsch": "Maschine, Gerät, Chance"
+      },
+      "会": {
+        "pinyin": "huì",
+        "deutsch": "können; sich treffen; Gelegenheit"
+      }
+    }
+  },
+  {
+    "zeichen": "经常",
+    "pinyin": "jīngcháng",
+    "deutsch": "oft, stets, häufig",
+    "komponenten": {
+      "经": {
+        "pinyin": "jīng",
+        "deutsch": "durch, regulär, Klassiker, bereits"
+      },
+      "常": {
+        "pinyin": "cháng",
+        "deutsch": "oft, gewöhnlich, regelmäßig"
+      }
+    }
+  },
+  {
+    "zeichen": "经过",
+    "pinyin": "jīngguò",
+    "deutsch": "durchlaufen, Ablauf, durch etwas gehen, durchmachen",
+    "komponenten": {
+      "经": {
+        "pinyin": "jīng",
+        "deutsch": "durch, regulär, Klassiker, bereits"
+      },
+      "过": {
+        "pinyin": "guò",
+        "deutsch": "vergehen, durch, überschreiten"
+      }
+    }
+  },
+  {
+    "zeichen": "经理",
+    "pinyin": "jīnglǐ",
+    "deutsch": "Manager, Leitender Angestellter",
+    "komponenten": {
+      "经": {
+        "pinyin": "jīng",
+        "deutsch": "durch, regulär, Klassiker, bereits"
+      },
+      "理": {
+        "pinyin": "lǐ",
+        "deutsch": "verwalten, Vernunft, Ordnung"
+      }
+    }
+  },
+  {
+    "zeichen": "极",
+    "pinyin": "jí",
+    "deutsch": "extrem, äußerst, Extremheit, Pol"
+  },
+  {
+    "zeichen": "记得",
+    "pinyin": "jìde",
+    "deutsch": "sich an jdn./etw. erinnern, sich erinnern",
+    "komponenten": {
+      "记": {
+        "pinyin": "jì",
+        "deutsch": "merken, notieren, aufschreiben"
+      },
+      "得": {
+        "pinyin": "de/dé",
+        "deutsch": "Partikel (Resultat); bekommen"
+      }
+    }
+  },
+  {
+    "zeichen": "季节",
+    "pinyin": "jìjié",
+    "deutsch": "Jahreszeit, Saison",
+    "komponenten": {
+      "季": {
+        "pinyin": "jì",
+        "deutsch": "Jahreszeit, Quartal"
+      },
+      "节": {
+        "pinyin": "jié",
+        "deutsch": "Knoten, Fest, Abschnitt"
+      }
+    }
+  },
+  {
+    "zeichen": "检查",
+    "pinyin": "jiǎnchá",
+    "deutsch": "überprüfen, Überprüfung, Kontrolle",
+    "komponenten": {
+      "检": {
+        "pinyin": "jiǎn",
+        "deutsch": "überprüfen, kontrollieren"
+      },
+      "查": {
+        "pinyin": "chá",
+        "deutsch": "nachschlagen, untersuchen, prüfen"
+      }
+    }
+  },
+  {
+    "zeichen": "简单",
+    "pinyin": "jiǎndān",
+    "deutsch": "einfach, gewöhnlich, unkompliziert, oberflächlich",
+    "komponenten": {
+      "简": {
+        "pinyin": "jiǎn",
+        "deutsch": "einfach, kurz, knapp"
+      },
+      "单": {
+        "pinyin": "dān",
+        "deutsch": "einzeln, Liste, einfach"
+      }
+    }
+  },
+  {
+    "zeichen": "讲",
+    "pinyin": "jiǎng",
+    "deutsch": "sagen, unterrichten, verhandeln, berücksichtigen"
+  },
+  {
+    "zeichen": "脚",
+    "pinyin": "jiǎo",
+    "deutsch": "Fuß"
+  },
+  {
+    "zeichen": "角",
+    "pinyin": "jiǎo",
+    "deutsch": "Ecke, Winkel, Horn, Kap, Jiao (Währungseinheit)"
+  },
+  {
+    "zeichen": "健康",
+    "pinyin": "jiànkāng",
+    "deutsch": "gesund, Gesundheit, Fitness",
+    "komponenten": {
+      "健": {
+        "pinyin": "jiàn",
+        "deutsch": "gesund, stark"
+      },
+      "康": {
+        "pinyin": "kāng",
+        "deutsch": "gesund, wohlhabend"
+      }
+    }
+  },
+  {
+    "zeichen": "见面",
+    "pinyin": "jiànmiàn",
+    "deutsch": "sich treffen, sich sehen",
+    "komponenten": {
+      "见": {
+        "pinyin": "jiàn",
+        "deutsch": "sehen, treffen, erblicken"
+      },
+      "面": {
+        "pinyin": "miàn",
+        "deutsch": "Gesicht, Oberfläche, Mehl, Seite"
+      }
+    }
+  },
+  {
+    "zeichen": "教",
+    "pinyin": "jiào",
+    "deutsch": "lehren, beibringen, Religion"
+  },
+  {
+    "zeichen": "接",
+    "pinyin": "jiē",
+    "deutsch": "(jemanden) abholen, verbinden, ausdehnen, abheben (Telefon)"
+  },
+  {
+    "zeichen": "街道",
+    "pinyin": "jiēdào",
+    "deutsch": "Straße",
+    "komponenten": {
+      "街": {
+        "pinyin": "jiē",
+        "deutsch": "Straße"
+      },
+      "道": {
+        "pinyin": "dào",
+        "deutsch": "Weg, sagen, Tao, Regel"
+      }
+    }
+  },
+  {
+    "zeichen": "结婚",
+    "pinyin": "jiéhūn",
+    "deutsch": "heiraten, Hochzeit",
+    "komponenten": {
+      "结": {
+        "pinyin": "jié",
+        "deutsch": "verbinden, verknüpfen, abschließen"
+      },
+      "婚": {
+        "pinyin": "hūn",
+        "deutsch": "Hochzeit, heiraten"
+      }
+    }
+  },
+  {
+    "zeichen": "节目",
+    "pinyin": "jiémù",
+    "deutsch": "Programm",
+    "komponenten": {
+      "节": {
+        "pinyin": "jié",
+        "deutsch": "Knoten, Fest, Abschnitt"
+      },
+      "目": {
+        "pinyin": "mù",
+        "deutsch": "Auge, Punkt, Ziel"
+      }
+    }
+  },
+  {
+    "zeichen": "节日",
+    "pinyin": "jiérì",
+    "deutsch": "Feiertag",
+    "komponenten": {
+      "节": {
+        "pinyin": "jié",
+        "deutsch": "Knoten, Fest, Abschnitt"
+      },
+      "日": {
+        "pinyin": "rì",
+        "deutsch": "Tag, Sonne"
+      }
+    }
+  },
+  {
+    "zeichen": "结束",
+    "pinyin": "jiéshù",
+    "deutsch": "beenden, Ende, Fertigstellung, erledigen",
+    "komponenten": {
+      "结": {
+        "pinyin": "jié",
+        "deutsch": "verbinden, verknüpfen, abschließen"
+      },
+      "束": {
+        "pinyin": "shù",
+        "deutsch": "bündeln, Ende, beenden"
+      }
+    }
+  },
+  {
+    "zeichen": "解决",
+    "pinyin": "jiějué",
+    "deutsch": "lösen, Lösung",
+    "komponenten": {
+      "解": {
+        "pinyin": "jiě",
+        "deutsch": "lösen, erklären, verstehen"
+      },
+      "决": {
+        "pinyin": "jué",
+        "deutsch": "entscheiden, bestimmt"
+      }
+    }
+  },
+  {
+    "zeichen": "借",
+    "pinyin": "jiè",
+    "deutsch": "leihen, mittels, verleihen, ausleihen"
+  },
+  {
+    "zeichen": "久",
+    "pinyin": "jiǔ",
+    "deutsch": "lange Zeit"
+  },
+  {
+    "zeichen": "旧",
+    "pinyin": "jiù",
+    "deutsch": "alt, lange Zeit, gebraucht, genutzt, (von) früher"
+  },
+  {
+    "zeichen": "举行",
+    "pinyin": "jǔxíng",
+    "deutsch": "veranstalten, durchführen, abhalten",
+    "komponenten": {
+      "举": {
+        "pinyin": "jǔ",
+        "deutsch": "heben, veranstalten"
+      },
+      "行": {
+        "pinyin": "xíng/háng",
+        "deutsch": "gehen, tun; Branche, Reihe, Bank"
+      }
+    }
+  },
+  {
+    "zeichen": "句子",
+    "pinyin": "jùzi",
+    "deutsch": "Satz",
+    "komponenten": {
+      "句": {
+        "pinyin": "jù",
+        "deutsch": "Satz (grammatisch)"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "决定",
+    "pinyin": "juédìng",
+    "deutsch": "entscheiden, beschließen, Beschluss, Entscheidung",
+    "komponenten": {
+      "决": {
+        "pinyin": "jué",
+        "deutsch": "entscheiden, bestimmt"
+      },
+      "定": {
+        "pinyin": "dìng",
+        "deutsch": "festlegen, sicher, bestimmt"
+      }
+    }
+  },
+  {
+    "zeichen": "渴",
+    "pinyin": "kě",
+    "deutsch": "durstig, Durst"
+  },
+  {
+    "zeichen": "可爱",
+    "pinyin": "kěài",
+    "deutsch": "niedlich, liebenswürdig",
+    "komponenten": {
+      "可": {
+        "pinyin": "kě",
+        "deutsch": "können, -bar, darf"
+      },
+      "爱": {
+        "pinyin": "ài",
+        "deutsch": "lieben, mögen, Liebe"
+      }
+    }
+  },
+  {
+    "zeichen": "刻",
+    "pinyin": "kè",
+    "deutsch": "Viertel(stunde), schnitzen, kurzer Zeitabschnitt"
+  },
+  {
+    "zeichen": "客人",
+    "pinyin": "kèren",
+    "deutsch": "Gast, Kunde",
+    "komponenten": {
+      "客": {
+        "pinyin": "kè",
+        "deutsch": "Gast, Besucher"
+      },
+      "人": {
+        "pinyin": "rén",
+        "deutsch": "Mensch, Person"
+      }
+    }
+  },
+  {
+    "zeichen": "空调",
+    "pinyin": "kōngtiáo",
+    "deutsch": "Klimaanlage",
+    "komponenten": {
+      "空": {
+        "pinyin": "kōng",
+        "deutsch": "leer, Luft, Himmel"
+      },
+      "调": {
+        "pinyin": "tiáo/diào",
+        "deutsch": "anpassen, abstimmen; Melodie, Ton"
+      }
+    }
+  },
+  {
+    "zeichen": "口",
+    "pinyin": "kǒu",
+    "deutsch": "Mund, Öffnung, Eintang, Schneide (vom Messer)"
+  },
+  {
+    "zeichen": "哭",
+    "pinyin": "kū",
+    "deutsch": "weinen"
+  },
+  {
+    "zeichen": "裤子",
+    "pinyin": "kùzi",
+    "deutsch": "Hose",
+    "komponenten": {
+      "裤": {
+        "pinyin": "kù",
+        "deutsch": "Hose"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "筷子",
+    "pinyin": "kuàizi",
+    "deutsch": "Essstäbchen",
+    "komponenten": {
+      "筷": {
+        "pinyin": "kuài",
+        "deutsch": "Essstäbchen (nur in 筷子)"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "蓝",
+    "pinyin": "lán",
+    "deutsch": "blau"
+  },
+  {
+    "zeichen": "老",
+    "pinyin": "lǎo",
+    "deutsch": "alt, weise, erfahren"
+  },
+  {
+    "zeichen": "离开",
+    "pinyin": "líkāi",
+    "deutsch": "verlassen, sich trennen von",
+    "komponenten": {
+      "离": {
+        "pinyin": "lí",
+        "deutsch": "verlassen, trennen, entfernt von"
+      },
+      "开": {
+        "pinyin": "kāi",
+        "deutsch": "öffnen, starten, fahren"
+      }
+    }
+  },
+  {
+    "zeichen": "邻居",
+    "pinyin": "línjū",
+    "deutsch": "Nachbar",
+    "komponenten": {
+      "邻": {
+        "pinyin": "lín",
+        "deutsch": "Nachbar, benachbart"
+      },
+      "居": {
+        "pinyin": "jū",
+        "deutsch": "wohnen, leben, Wohnsitz"
+      }
+    }
+  },
+  {
+    "zeichen": "礼物",
+    "pinyin": "lǐwù",
+    "deutsch": "Geschenk",
+    "komponenten": {
+      "礼": {
+        "pinyin": "lǐ",
+        "deutsch": "Höflichkeit, Geschenk, Ritual"
+      },
+      "物": {
+        "pinyin": "wù",
+        "deutsch": "Ding, Sache, Gegenstand"
+      }
+    }
+  },
+  {
+    "zeichen": "历史",
+    "pinyin": "lìshǐ",
+    "deutsch": "Geschichte, historisch",
+    "komponenten": {
+      "历": {
+        "pinyin": "lì",
+        "deutsch": "Geschichte erleben, Kalender"
+      },
+      "史": {
+        "pinyin": "shǐ",
+        "deutsch": "Geschichte (als Fach/Wissenschaft)"
+      }
+    }
+  },
+  {
+    "zeichen": "脸",
+    "pinyin": "liǎn",
+    "deutsch": "Gesicht, Ansehen"
+  },
+  {
+    "zeichen": "了解",
+    "pinyin": "liǎojiě",
+    "deutsch": "verstehen, Bescheid wissen über, sich informieren, herausfinden",
+    "komponenten": {
+      "了": {
+        "pinyin": "le/liǎo",
+        "deutsch": "Abschlusspartikel; beenden"
+      },
+      "解": {
+        "pinyin": "jiě",
+        "deutsch": "lösen, erklären, verstehen"
+      }
+    }
+  },
+  {
+    "zeichen": "辆",
+    "pinyin": "liàng",
+    "deutsch": "Zähleinheitswort (für Fahrzeuge)"
+  },
+  {
+    "zeichen": "练习",
+    "pinyin": "liànxí",
+    "deutsch": "üben, Übung",
+    "komponenten": {
+      "练": {
+        "pinyin": "liàn",
+        "deutsch": "üben, trainieren"
+      },
+      "习": {
+        "pinyin": "xí",
+        "deutsch": "üben, Gewohnheit"
+      }
+    }
+  },
+  {
+    "zeichen": "楼",
+    "pinyin": "lóu",
+    "deutsch": "Gebäude, Stockwerk, Etage"
+  },
+  {
+    "zeichen": "绿",
+    "pinyin": "lǜ",
+    "deutsch": "grün"
+  },
+  {
+    "zeichen": "马",
+    "pinyin": "mǎ",
+    "deutsch": "Pferd"
+  },
+  {
+    "zeichen": "满意",
+    "pinyin": "mǎnyì",
+    "deutsch": "zufrieden, zufriedenstellen",
+    "komponenten": {
+      "满": {
+        "pinyin": "mǎn",
+        "deutsch": "voll, zufrieden"
+      },
+      "意": {
+        "pinyin": "yì",
+        "deutsch": "Bedeutung, Absicht, Meinung"
+      }
+    }
+  },
+  {
+    "zeichen": "马上",
+    "pinyin": "mǎshàng",
+    "deutsch": "sofort, gleich, unverzüglich",
+    "komponenten": {
+      "马": {
+        "pinyin": "mǎ",
+        "deutsch": "Pferd"
+      },
+      "上": {
+        "pinyin": "shàng",
+        "deutsch": "oben, hinaufgehen"
+      }
+    }
+  },
+  {
+    "zeichen": "帽子",
+    "pinyin": "màozi",
+    "deutsch": "Hut, Mütze",
+    "komponenten": {
+      "帽": {
+        "pinyin": "mào",
+        "deutsch": "Hut, Mütze"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "明白",
+    "pinyin": "míngbái",
+    "deutsch": "verstehen, klar, begreifen, ersichtlich",
+    "komponenten": {
+      "明": {
+        "pinyin": "míng",
+        "deutsch": "hell, klar, verständlich"
+      },
+      "白": {
+        "pinyin": "bái",
+        "deutsch": "weiß, klar, umsonst"
+      }
+    }
+  },
+  {
+    "zeichen": "米",
+    "pinyin": "mǐ",
+    "deutsch": "(geschälter, ungekochter) Reis, Meter, Korn"
+  },
+  {
+    "zeichen": "面包",
+    "pinyin": "miànbāo",
+    "deutsch": "Brot, Brötchen",
+    "komponenten": {
+      "面": {
+        "pinyin": "miàn",
+        "deutsch": "Gesicht, Oberfläche, Mehl, Seite"
+      },
+      "包": {
+        "pinyin": "bāo",
+        "deutsch": "einwickeln, verpacken, Paket, Sack, versichern"
+      }
+    }
+  },
+  {
+    "zeichen": "面条",
+    "pinyin": "miàntiáo",
+    "deutsch": "Nudeln",
+    "komponenten": {
+      "面": {
+        "pinyin": "miàn",
+        "deutsch": "Gesicht, Oberfläche, Mehl, Seite"
+      },
+      "条": {
+        "pinyin": "tiáo",
+        "deutsch": "Streifen"
+      }
+    }
+  },
+  {
+    "zeichen": "拿",
+    "pinyin": "ná",
+    "deutsch": "nehmen, halten"
+  },
+  {
+    "zeichen": "南",
+    "pinyin": "nán",
+    "deutsch": "Süden, südlich"
+  },
+  {
+    "zeichen": "难",
+    "pinyin": "nán",
+    "deutsch": "schwierig"
+  },
+  {
+    "zeichen": "难过",
+    "pinyin": "nánguò",
+    "deutsch": "traurig, erschüttert sein",
+    "komponenten": {
+      "难": {
+        "pinyin": "nán",
+        "deutsch": "schwierig"
+      },
+      "过": {
+        "pinyin": "guò",
+        "deutsch": "vergehen, durch, überschreiten"
+      }
+    }
+  },
+  {
+    "zeichen": "奶奶",
+    "pinyin": "nǎinai",
+    "deutsch": "Großmutter (väterlicherseits)",
+    "komponenten": {
+      "奶": {
+        "pinyin": "nǎi",
+        "deutsch": "Milch, Großmutter"
+      }
+    }
+  },
+  {
+    "zeichen": "年级",
+    "pinyin": "niánjí",
+    "deutsch": "Jahrgang, Schuljahr, Klassenstufe",
+    "komponenten": {
+      "年": {
+        "pinyin": "nián",
+        "deutsch": "Jahr"
+      },
+      "级": {
+        "pinyin": "jí",
+        "deutsch": "Stufe, Klasse, Rang, Grad"
+      }
+    }
+  },
+  {
+    "zeichen": "年轻",
+    "pinyin": "niánqīng",
+    "deutsch": "jung",
+    "komponenten": {
+      "年": {
+        "pinyin": "nián",
+        "deutsch": "Jahr"
+      },
+      "轻": {
+        "pinyin": "qīng",
+        "deutsch": "leicht, jung, unbedeutend"
+      }
+    }
+  },
+  {
+    "zeichen": "鸟",
+    "pinyin": "niǎo",
+    "deutsch": "Vogel"
+  },
+  {
+    "zeichen": "努力",
+    "pinyin": "nǔlì",
+    "deutsch": "eifrig, fleißig, sich anstrengen",
+    "komponenten": {
+      "努": {
+        "pinyin": "nǔ",
+        "deutsch": "sich anstrengen"
+      },
+      "力": {
+        "pinyin": "lì",
+        "deutsch": "Kraft, Stärke"
+      }
+    }
+  },
+  {
+    "zeichen": "盘子",
+    "pinyin": "pánzi",
+    "deutsch": "Teller, Tablett, Servierplatte",
+    "komponenten": {
+      "盘": {
+        "pinyin": "pán",
+        "deutsch": "Teller, Schüssel, Scheibe"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "爬山",
+    "pinyin": "páshān",
+    "deutsch": "Berg steigen, Klettern, Bergsteigen, klettern",
+    "komponenten": {
+      "爬": {
+        "pinyin": "pá",
+        "deutsch": "klettern, kriechen"
+      },
+      "山": {
+        "pinyin": "shān",
+        "deutsch": "Berg"
+      }
+    }
+  },
+  {
+    "zeichen": "胖",
+    "pinyin": "pàng",
+    "deutsch": "dick, mollig"
+  },
+  {
+    "zeichen": "啤酒",
+    "pinyin": "píjiǔ",
+    "deutsch": "Bier",
+    "komponenten": {
+      "啤": {
+        "pinyin": "pí",
+        "deutsch": "Bier (Lehnwort-Silbe)"
+      },
+      "酒": {
+        "pinyin": "jiǔ",
+        "deutsch": "Alkohol, Wein, Bier"
+      }
+    }
+  },
+  {
+    "zeichen": "葡萄",
+    "pinyin": "pútao",
+    "deutsch": "(Wein-)Traube",
+    "komponenten": {
+      "葡": {
+        "pinyin": "pú",
+        "deutsch": "Weinrebe (nur in 葡萄)"
+      },
+      "萄": {
+        "pinyin": "táo",
+        "deutsch": "Weinrebe (nur in 葡萄)"
+      }
+    }
+  },
+  {
+    "zeichen": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "deutsch": "Hochchinesisch, Mandarin",
+    "komponenten": {
+      "普": {
+        "pinyin": "pǔ",
+        "deutsch": "allgemein, gewöhnlich, weit verbreitet"
+      },
+      "通": {
+        "pinyin": "tōng",
+        "deutsch": "durchgehen, verbinden, kommunizieren"
+      },
+      "话": {
+        "pinyin": "huà",
+        "deutsch": "Sprache, sprechen, Satz"
+      }
+    }
+  },
+  {
+    "zeichen": "清楚",
+    "pinyin": "qīngchu",
+    "deutsch": "klar, etwas wissen, deutlich",
+    "komponenten": {
+      "清": {
+        "pinyin": "qīng",
+        "deutsch": "klar, rein, frisch"
+      },
+      "楚": {
+        "pinyin": "chǔ",
+        "deutsch": "klar, deutlich (nur in 清楚)"
+      }
+    }
+  },
+  {
+    "zeichen": "骑",
+    "pinyin": "qí",
+    "deutsch": "reiten, Rad fahren"
+  },
+  {
+    "zeichen": "奇怪",
+    "pinyin": "qíguài",
+    "deutsch": "seltsam, sich wundern, merkwürdig",
+    "komponenten": {
+      "奇": {
+        "pinyin": "qí",
+        "deutsch": "seltsam, wunderbar"
+      },
+      "怪": {
+        "pinyin": "guài",
+        "deutsch": "seltsam, merkwürdig"
+      }
+    }
+  },
+  {
+    "zeichen": "其实",
+    "pinyin": "qíshí",
+    "deutsch": "eigentlich, tatsächlich, in Wirklichkeit",
+    "komponenten": {
+      "其": {
+        "pinyin": "qí",
+        "deutsch": "sein, jener, diese"
+      },
+      "实": {
+        "pinyin": "shí",
+        "deutsch": "wirklich, tatsächlich, Frucht"
+      }
+    }
+  },
+  {
+    "zeichen": "其他",
+    "pinyin": "qítā",
+    "deutsch": "andere, sonstige",
+    "komponenten": {
+      "其": {
+        "pinyin": "qí",
+        "deutsch": "sein, jener, diese"
+      },
+      "他": {
+        "pinyin": "tā",
+        "deutsch": "er, andere"
+      }
+    }
+  },
+  {
+    "zeichen": "铅笔",
+    "pinyin": "qiānbǐ",
+    "deutsch": "Bleistift",
+    "komponenten": {
+      "铅": {
+        "pinyin": "qiān",
+        "deutsch": "Blei (Metall)"
+      },
+      "笔": {
+        "pinyin": "bǐ",
+        "deutsch": "Stift, Pinsel"
+      }
+    }
+  },
+  {
+    "zeichen": "秋",
+    "pinyin": "qiū",
+    "deutsch": "Herbst"
+  },
+  {
+    "zeichen": "裙子",
+    "pinyin": "qúnzi",
+    "deutsch": "Rock",
+    "komponenten": {
+      "裙": {
+        "pinyin": "qún",
+        "deutsch": "Rock (Kleidungsstück)"
+      },
+      "子": {
+        "pinyin": "zi/zǐ",
+        "deutsch": "Kind; Suffix für Nomen"
+      }
+    }
+  },
+  {
+    "zeichen": "然后",
+    "pinyin": "ránhòu",
+    "deutsch": "dann, danach, nachher",
+    "komponenten": {
+      "然": {
+        "pinyin": "rán",
+        "deutsch": "so, natürlich, dann"
+      },
+      "后": {
+        "pinyin": "hòu",
+        "deutsch": "danach, hinter, hinten"
+      }
+    }
+  },
+  {
+    "zeichen": "认为",
+    "pinyin": "rènwéi",
+    "deutsch": "denken, der Meinung sein, dass, meinen, als etwas erachten",
+    "komponenten": {
+      "认": {
+        "pinyin": "rèn",
+        "deutsch": "erkennen, zugeben, bestätigen"
+      },
+      "为": {
+        "pinyin": "wèi",
+        "deutsch": "für, tun, werden"
+      }
+    }
+  },
+  {
+    "zeichen": "认真",
+    "pinyin": "rènzhēn",
+    "deutsch": "gewissenhaft, ernsthaft, genau",
+    "komponenten": {
+      "认": {
+        "pinyin": "rèn",
+        "deutsch": "erkennen, zugeben, bestätigen"
+      },
+      "真": {
+        "pinyin": "zhēn",
+        "deutsch": "wahr, echt, wirklich"
+      }
+    }
+  },
+  {
+    "zeichen": "热情",
+    "pinyin": "rèqíng",
+    "deutsch": "hilfsbereit, engagiert, herzlich",
+    "komponenten": {
+      "热": {
+        "pinyin": "rè",
+        "deutsch": "heiß, Wärme"
+      },
+      "情": {
+        "pinyin": "qíng",
+        "deutsch": "Gefühl, Situation, Lage"
+      }
+    }
+  },
+  {
+    "zeichen": "容易",
+    "pinyin": "róngyì",
+    "deutsch": "einfach",
+    "komponenten": {
+      "容": {
+        "pinyin": "róng",
+        "deutsch": "enthalten, erlauben, Aussehen"
+      },
+      "易": {
+        "pinyin": "yì",
+        "deutsch": "einfach, tauschen"
+      }
+    }
+  },
+  {
+    "zeichen": "如果",
+    "pinyin": "rúguǒ",
+    "deutsch": "falls",
+    "komponenten": {
+      "如": {
+        "pinyin": "rú",
+        "deutsch": "wie, wenn, als ob"
+      },
+      "果": {
+        "pinyin": "guǒ",
+        "deutsch": "Frucht, Ergebnis, wenn dann"
+      }
+    }
+  },
+  {
+    "zeichen": "伞",
+    "pinyin": "sǎn",
+    "deutsch": "Schirm, Regenschirm, Regendach"
+  },
+  {
+    "zeichen": "上网",
+    "pinyin": "shàngwǎng",
+    "deutsch": "im Internet surfen, online gehen",
+    "komponenten": {
+      "上": {
+        "pinyin": "shàng",
+        "deutsch": "oben, hinaufgehen"
+      },
+      "网": {
+        "pinyin": "wǎng",
+        "deutsch": "Netz, Internet"
+      }
+    }
+  },
+  {
+    "zeichen": "生气",
+    "pinyin": "shēngqì",
+    "deutsch": "sauer sein, Vitalität, sich aufregen, wütend werden",
+    "komponenten": {
+      "生": {
+        "pinyin": "shēng",
+        "deutsch": "leben, gebären, entstehen, roh"
+      },
+      "气": {
+        "pinyin": "qì",
+        "deutsch": "Luft, Energie, Qi, Atem"
+      }
+    }
+  },
+  {
+    "zeichen": "声音",
+    "pinyin": "shēngyīn",
+    "deutsch": "Laut, Geräusch",
+    "komponenten": {
+      "声": {
+        "pinyin": "shēng",
+        "deutsch": "Klang, Stimme, Ton"
+      },
+      "音": {
+        "pinyin": "yīn",
+        "deutsch": "Klang, Laut, Ton"
+      }
+    }
+  },
+  {
+    "zeichen": "使",
+    "pinyin": "shǐ",
+    "deutsch": "anwenden, Bote, jdn. etw. tun lassen, schicken"
+  },
+  {
+    "zeichen": "世界",
+    "pinyin": "shìjiè",
+    "deutsch": "Welt",
+    "komponenten": {
+      "世": {
+        "pinyin": "shì",
+        "deutsch": "Welt, Generation"
+      },
+      "界": {
+        "pinyin": "jiè",
+        "deutsch": "Grenze, Welt, Bereich"
+      }
+    }
+  },
+  {
+    "zeichen": "瘦",
+    "pinyin": "shòu",
+    "deutsch": "dünn, mager"
+  },
+  {
+    "zeichen": "舒服",
+    "pinyin": "shūfu",
+    "deutsch": "bequem, sich wohlfühlen",
+    "komponenten": {
+      "舒": {
+        "pinyin": "shū",
+        "deutsch": "ausbreiten, bequem, angenehm"
+      },
+      "服": {
+        "pinyin": "fú",
+        "deutsch": "Kleidung; dienen; schlucken"
+      }
+    }
+  },
+  {
+    "zeichen": "叔叔",
+    "pinyin": "shūshu",
+    "deutsch": "Onkel",
+    "komponenten": {
+      "叔": {
+        "pinyin": "shū",
+        "deutsch": "Onkel (jüngerer Bruder des Vaters)"
+      }
+    }
+  },
+  {
+    "zeichen": "树",
+    "pinyin": "shù",
+    "deutsch": "Baum"
+  },
+  {
+    "zeichen": "数学",
+    "pinyin": "shùxué",
+    "deutsch": "Mathematik",
+    "komponenten": {
+      "数": {
+        "pinyin": "shù",
+        "deutsch": "Zahl, zählen"
+      },
+      "学": {
+        "pinyin": "xué",
+        "deutsch": "lernen, studieren, Wissenschaft"
+      }
+    }
+  },
+  {
+    "zeichen": "双",
+    "pinyin": "shuāng",
+    "deutsch": "Paar, doppelt, zwei"
+  },
+  {
+    "zeichen": "刷牙",
+    "pinyin": "shuāyá",
+    "deutsch": "Zähne putzen",
+    "komponenten": {
+      "刷": {
+        "pinyin": "shuā",
+        "deutsch": "bürsten, wischen"
+      },
+      "牙": {
+        "pinyin": "yá",
+        "deutsch": "Zahn"
+      }
+    }
+  },
+  {
+    "zeichen": "水平",
+    "pinyin": "shuǐpíng",
+    "deutsch": "Niveau, Standard",
+    "komponenten": {
+      "水": {
+        "pinyin": "shuǐ",
+        "deutsch": "Wasser"
+      },
+      "平": {
+        "pinyin": "píng",
+        "deutsch": "flach, eben, Frieden, gleich"
+      }
+    }
+  },
+  {
+    "zeichen": "司机",
+    "pinyin": "sījī",
+    "deutsch": "Chauffeur, (Berufs-)Fahrer",
+    "komponenten": {
+      "司": {
+        "pinyin": "sī",
+        "deutsch": "verwalten, leiten"
+      },
+      "机": {
+        "pinyin": "jī",
+        "deutsch": "Maschine, Gerät, Chance"
+      }
+    }
+  },
+  {
+    "zeichen": "虽然",
+    "pinyin": "suīrán",
+    "deutsch": "obwohl, zwar",
+    "komponenten": {
+      "虽": {
+        "pinyin": "suī",
+        "deutsch": "obwohl, wenn auch"
+      },
+      "然": {
+        "pinyin": "rán",
+        "deutsch": "so, natürlich, dann"
+      }
+    }
+  },
+  {
+    "zeichen": "糖",
+    "pinyin": "táng",
+    "deutsch": "Zucker"
+  },
+  {
+    "zeichen": "太阳",
+    "pinyin": "tàiyáng",
+    "deutsch": "Sonne, Sonnenschein",
+    "komponenten": {
+      "太": {
+        "pinyin": "tài",
+        "deutsch": "sehr, übermäßig, zu"
+      },
+      "阳": {
+        "pinyin": "yáng",
+        "deutsch": "Sonne, Yang, hell"
+      }
+    }
+  },
+  {
+    "zeichen": "疼",
+    "pinyin": "téng",
+    "deutsch": "Schmerz, schmerzen, sehr lieb haben"
+  },
+  {
+    "zeichen": "特别",
+    "pinyin": "tèbié",
+    "deutsch": "spezial, außergewöhnlich, besonders",
+    "komponenten": {
+      "特": {
+        "pinyin": "tè",
+        "deutsch": "besonders, speziell"
+      },
+      "别": {
+        "pinyin": "bié",
+        "deutsch": "anderer; trennen; nicht (tun)"
+      }
+    }
+  },
+  {
+    "zeichen": "提高",
+    "pinyin": "tígāo",
+    "deutsch": "erhöhen, heben",
+    "komponenten": {
+      "提": {
+        "pinyin": "tí",
+        "deutsch": "heben, erwähnen, vorschlagen"
+      },
+      "高": {
+        "pinyin": "gāo",
+        "deutsch": "hoch, groß"
+      }
+    }
+  },
+  {
+    "zeichen": "体育",
+    "pinyin": "tǐyù",
+    "deutsch": "Sport",
+    "komponenten": {
+      "体": {
+        "pinyin": "tǐ",
+        "deutsch": "Körper, Form"
+      },
+      "育": {
+        "pinyin": "yù",
+        "deutsch": "erziehen, aufziehen, ausbilden"
+      }
+    }
+  },
+  {
+    "zeichen": "甜",
+    "pinyin": "tián",
+    "deutsch": "süß"
+  },
+  {
+    "zeichen": "条",
+    "pinyin": "tiáo",
+    "deutsch": "Streifen"
+  },
+  {
+    "zeichen": "同事",
+    "pinyin": "tóngshì",
+    "deutsch": "Kollege, zusammenarbeiten",
+    "komponenten": {
+      "同": {
+        "pinyin": "tóng",
+        "deutsch": "gleich, zusammen mit"
+      },
+      "事": {
+        "pinyin": "shì",
+        "deutsch": "Sache, Angelegenheit"
+      }
+    }
+  },
+  {
+    "zeichen": "同意",
+    "pinyin": "tóngyì",
+    "deutsch": "zustimmen, Zustimmung, genehmigen, einwilligen, Konsens",
+    "komponenten": {
+      "同": {
+        "pinyin": "tóng",
+        "deutsch": "gleich, zusammen mit"
+      },
+      "意": {
+        "pinyin": "yì",
+        "deutsch": "Bedeutung, Absicht, Meinung"
+      }
+    }
+  },
+  {
+    "zeichen": "头发",
+    "pinyin": "tóufa",
+    "deutsch": "Haar",
+    "komponenten": {
+      "头": {
+        "pinyin": "tóu",
+        "deutsch": "Kopf, Anfang"
+      },
+      "发": {
+        "pinyin": "fā/fà",
+        "deutsch": "entwickeln, schicken; Haar"
+      }
+    }
+  },
+  {
+    "zeichen": "突然",
+    "pinyin": "tūrán",
+    "deutsch": "plötzlich, abrupt, schlagartig",
+    "komponenten": {
+      "突": {
+        "pinyin": "tū",
+        "deutsch": "plötzlich, hervorspringen"
+      },
+      "然": {
+        "pinyin": "rán",
+        "deutsch": "so, natürlich, dann"
+      }
+    }
+  },
+  {
+    "zeichen": "图书馆",
+    "pinyin": "túshūguǎn",
+    "deutsch": "Bibliothek, Bücherei",
+    "komponenten": {
+      "图": {
+        "pinyin": "tú",
+        "deutsch": "Bild, Karte, planen"
+      },
+      "书": {
+        "pinyin": "shū",
+        "deutsch": "Buch"
+      },
+      "馆": {
+        "pinyin": "guǎn",
+        "deutsch": "Gebäude, Lokal, Institut"
+      }
+    }
+  },
+  {
+    "zeichen": "腿",
+    "pinyin": "tuǐ",
+    "deutsch": "Bein"
+  },
+  {
+    "zeichen": "完成",
+    "pinyin": "wánchéng",
+    "deutsch": "vollenden, abschließen, erfüllen",
+    "komponenten": {
+      "完": {
+        "pinyin": "wán",
+        "deutsch": "beenden, fertig, vollständig"
+      },
+      "成": {
+        "pinyin": "chéng",
+        "deutsch": "erreichen, werden, erfolgreich"
+      }
+    }
+  },
+  {
+    "zeichen": "碗",
+    "pinyin": "wǎn",
+    "deutsch": "Schüssel, Schale"
+  },
+  {
+    "zeichen": "万",
+    "pinyin": "wàn",
+    "deutsch": "zehntausend"
+  },
+  {
+    "zeichen": "忘记",
+    "pinyin": "wàngjì",
+    "deutsch": "vergessen",
+    "komponenten": {
+      "忘": {
+        "pinyin": "wàng",
+        "deutsch": "vergessen"
+      },
+      "记": {
+        "pinyin": "jì",
+        "deutsch": "merken, notieren, aufschreiben"
+      }
+    }
+  },
+  {
+    "zeichen": "文化",
+    "pinyin": "wénhuà",
+    "deutsch": "Kultur",
+    "komponenten": {
+      "文": {
+        "pinyin": "wén",
+        "deutsch": "Schrift, Kultur, Literatur"
+      },
+      "化": {
+        "pinyin": "huà",
+        "deutsch": "verwandeln, -isieren"
+      }
+    }
+  },
+  {
+    "zeichen": "为",
+    "pinyin": "wèi",
+    "deutsch": "für, tun, werden"
+  },
+  {
+    "zeichen": "位",
+    "pinyin": "wèi",
+    "deutsch": "stellen, Platz, Ort"
+  },
+  {
+    "zeichen": "为了",
+    "pinyin": "wèile",
+    "deutsch": "zwecks, damit, wegen, für",
+    "komponenten": {
+      "为": {
+        "pinyin": "wèi",
+        "deutsch": "für, tun, werden"
+      },
+      "了": {
+        "pinyin": "le/liǎo",
+        "deutsch": "Abschlusspartikel; beenden"
+      }
+    }
+  },
+  {
+    "zeichen": "西",
+    "pinyin": "xī",
+    "deutsch": "Westen, westlich"
+  },
+  {
+    "zeichen": "新闻",
+    "pinyin": "xīnwén",
+    "deutsch": "Neuigkeit(en), Nachricht(en)",
+    "komponenten": {
+      "新": {
+        "pinyin": "xīn",
+        "deutsch": "neu"
+      },
+      "闻": {
+        "pinyin": "wén",
+        "deutsch": "riechen, hören (Neuigkeiten)"
+      }
+    }
+  },
+  {
+    "zeichen": "新鲜",
+    "pinyin": "xīnxiān",
+    "deutsch": "frisch, taufrisch, Frische",
+    "komponenten": {
+      "新": {
+        "pinyin": "xīn",
+        "deutsch": "neu"
+      },
+      "鲜": {
+        "pinyin": "xiān",
+        "deutsch": "frisch, köstlich"
+      }
+    }
+  },
+  {
+    "zeichen": "习惯",
+    "pinyin": "xíguàn",
+    "deutsch": "Gewohnheit, sich gewöhnen",
+    "komponenten": {
+      "习": {
+        "pinyin": "xí",
+        "deutsch": "üben, Gewohnheit"
+      },
+      "惯": {
+        "pinyin": "guàn",
+        "deutsch": "gewohnt sein, Gewohnheit"
+      }
+    }
+  },
+  {
+    "zeichen": "行李箱",
+    "pinyin": "xínglǐxiāng",
+    "deutsch": "Koffer, Reisekoffer",
+    "komponenten": {
+      "行": {
+        "pinyin": "xíng/háng",
+        "deutsch": "gehen, tun; Branche, Reihe, Bank"
+      },
+      "李": {
+        "pinyin": "lǐ",
+        "deutsch": "Gepäck; Pflaume; Familienname Li"
+      },
+      "箱": {
+        "pinyin": "xiāng",
+        "deutsch": "Schachtel, Koffer, Kiste"
+      }
+    }
+  },
+  {
+    "zeichen": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "deutsch": "Toilette, WC",
+    "komponenten": {
+      "洗": {
+        "pinyin": "xǐ",
+        "deutsch": "waschen"
+      },
+      "手": {
+        "pinyin": "shǒu",
+        "deutsch": "Hand"
+      },
+      "间": {
+        "pinyin": "jiān/jiàn",
+        "deutsch": "Raum, zwischen; Abstand"
+      }
+    }
+  },
+  {
+    "zeichen": "洗澡",
+    "pinyin": "xǐzǎo",
+    "deutsch": "ein Bad nehmen, duschen",
+    "komponenten": {
+      "洗": {
+        "pinyin": "xǐ",
+        "deutsch": "waschen"
+      },
+      "澡": {
+        "pinyin": "zǎo",
+        "deutsch": "Bad (nehmen), sich waschen"
+      }
+    }
+  },
+  {
+    "zeichen": "信",
+    "pinyin": "xìn",
+    "deutsch": "glauben, Brief, Vertrauen, vertrauen, wahr, Beweis"
+  },
+  {
+    "zeichen": "兴趣",
+    "pinyin": "xìngqù",
+    "deutsch": "Interesse",
+    "komponenten": {
+      "兴": {
+        "pinyin": "xìng/xīng",
+        "deutsch": "Interesse; aufblühen"
+      },
+      "趣": {
+        "pinyin": "qù",
+        "deutsch": "Interesse, amüsant, reizvoll"
+      }
+    }
+  },
+  {
+    "zeichen": "先",
+    "pinyin": "xiān",
+    "deutsch": "zuerst, zuvor"
+  },
+  {
+    "zeichen": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "deutsch": "Banane",
+    "komponenten": {
+      "香": {
+        "pinyin": "xiāng",
+        "deutsch": "duftend, wohlriechend, würzig"
+      },
+      "蕉": {
+        "pinyin": "jiāo",
+        "deutsch": "Bananenstaude (nur in 香蕉)"
+      }
+    }
+  },
+  {
+    "zeichen": "相同",
+    "pinyin": "xiāngtóng",
+    "deutsch": "sich stark ähneln, sich kaum unterscheiden",
+    "komponenten": {
+      "相": {
+        "pinyin": "xiāng/xiàng",
+        "deutsch": "gegenseitig; Aussehen, Bild"
+      },
+      "同": {
+        "pinyin": "tóng",
+        "deutsch": "gleich, zusammen mit"
+      }
+    }
+  },
+  {
+    "zeichen": "相信",
+    "pinyin": "xiāngxìn",
+    "deutsch": "(jdm.) trauen, (jdm.) vertrauen, glauben",
+    "komponenten": {
+      "相": {
+        "pinyin": "xiāng/xiàng",
+        "deutsch": "gegenseitig; Aussehen, Bild"
+      },
+      "信": {
+        "pinyin": "xìn",
+        "deutsch": "glauben, Brief, Vertrauen, vertrauen, wahr, Beweis"
+      }
+    }
+  },
+  {
+    "zeichen": "小心",
+    "pinyin": "xiǎoxīn",
+    "deutsch": "vorsichtig sein, Vorsicht, achtgeben, Achtsamkeit",
+    "komponenten": {
+      "小": {
+        "pinyin": "xiǎo",
+        "deutsch": "klein, wenig, jung"
+      },
+      "心": {
+        "pinyin": "xīn",
+        "deutsch": "Herz, Geist, Mitte"
+      }
+    }
+  },
+  {
+    "zeichen": "夏",
+    "pinyin": "xià",
+    "deutsch": "Sommer"
+  },
+  {
+    "zeichen": "像",
+    "pinyin": "xiàng",
+    "deutsch": "Ähnlichkeit, ähneln, Bildnis, Bild, so tun als ob"
+  },
+  {
+    "zeichen": "校长",
+    "pinyin": "xiàozhǎng",
+    "deutsch": "Schuldirektor",
+    "komponenten": {
+      "校": {
+        "pinyin": "xiào",
+        "deutsch": "Schule"
+      },
+      "长": {
+        "pinyin": "zhǎng/cháng",
+        "deutsch": "Chef, wachsen; lang"
+      }
+    }
+  },
+  {
+    "zeichen": "鞋",
+    "pinyin": "xié",
+    "deutsch": "Schuh"
+  },
+  {
+    "zeichen": "熊猫",
+    "pinyin": "xióngmāo",
+    "deutsch": "Panda",
+    "komponenten": {
+      "熊": {
+        "pinyin": "xióng",
+        "deutsch": "Bär"
+      },
+      "猫": {
+        "pinyin": "māo",
+        "deutsch": "Katze"
+      }
+    }
+  },
+  {
+    "zeichen": "需要",
+    "pinyin": "xūyào",
+    "deutsch": "brauchen, Bedürfnis, Bedarf, wollen, nötig sein",
+    "komponenten": {
+      "需": {
+        "pinyin": "xū",
+        "deutsch": "brauchen, benötigen, Bedarf"
+      },
+      "要": {
+        "pinyin": "yào",
+        "deutsch": "wollen, brauchen, wichtig, werden"
+      }
+    }
+  },
+  {
+    "zeichen": "选择",
+    "pinyin": "xuǎnzé",
+    "deutsch": "auswählen, Auswahl, entscheiden, Alternative",
+    "komponenten": {
+      "选": {
+        "pinyin": "xuǎn",
+        "deutsch": "wählen, auswählen"
+      },
+      "择": {
+        "pinyin": "zé",
+        "deutsch": "wählen, auswählen"
+      }
+    }
+  },
+  {
+    "zeichen": "要求",
+    "pinyin": "yāoqiú",
+    "deutsch": "(an)fordern, (An)Forderung, verlangen, Anspruch",
+    "komponenten": {
+      "要": {
+        "pinyin": "yào",
+        "deutsch": "wollen, brauchen, wichtig, werden"
+      },
+      "求": {
+        "pinyin": "qiú",
+        "deutsch": "bitten, suchen, fordern"
+      }
+    }
+  },
+  {
+    "zeichen": "眼镜",
+    "pinyin": "yǎnjìng",
+    "deutsch": "Brille",
+    "komponenten": {
+      "眼": {
+        "pinyin": "yǎn",
+        "deutsch": "Auge"
+      },
+      "镜": {
+        "pinyin": "jìng",
+        "deutsch": "Spiegel, Linse, Brille"
+      }
+    }
+  },
+  {
+    "zeichen": "爷爷",
+    "pinyin": "yéye",
+    "deutsch": "Großvater, Opa",
+    "komponenten": {
+      "爷": {
+        "pinyin": "yé",
+        "deutsch": "Großvater, Herr"
+      }
+    }
+  },
+  {
+    "zeichen": "一般",
+    "pinyin": "yībān",
+    "deutsch": "allgemein, gewöhnlich, gleichartig, normal, üblich, normalerweise",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "般": {
+        "pinyin": "bān",
+        "deutsch": "Art, Weise, Sorte, so wie"
+      }
+    }
+  },
+  {
+    "zeichen": "一边",
+    "pinyin": "yībiān",
+    "deutsch": "auf der einen Seite",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "边": {
+        "pinyin": "biān",
+        "deutsch": "Seite, Rand, Kante"
+      }
+    }
+  },
+  {
+    "zeichen": "应该",
+    "pinyin": "yīnggāi",
+    "deutsch": "sollen, sollten",
+    "komponenten": {
+      "应": {
+        "pinyin": "yīng",
+        "deutsch": "sollen, antworten, entsprechen"
+      },
+      "该": {
+        "pinyin": "gāi",
+        "deutsch": "sollen, angemessen, dieser"
+      }
+    }
+  },
+  {
+    "zeichen": "音乐",
+    "pinyin": "yīnyuè",
+    "deutsch": "Musik",
+    "komponenten": {
+      "音": {
+        "pinyin": "yīn",
+        "deutsch": "Klang, Laut, Ton"
+      },
+      "乐": {
+        "pinyin": "yuè/lè",
+        "deutsch": "Musik; glücklich"
+      }
+    }
+  },
+  {
+    "zeichen": "一会儿",
+    "pinyin": "yí huìr",
+    "deutsch": "ein Moment, ein Augenblick, eine kurze Weile",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "会": {
+        "pinyin": "huì",
+        "deutsch": "können; sich treffen; Gelegenheit"
+      },
+      "儿": {
+        "pinyin": "ér",
+        "deutsch": "Kind; Erhua-Suffix"
+      }
+    }
+  },
+  {
+    "zeichen": "一定",
+    "pinyin": "yídìng",
+    "deutsch": "sicher, bestimmt, auf jeden Fall",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "定": {
+        "pinyin": "dìng",
+        "deutsch": "festlegen, sicher, bestimmt"
+      }
+    }
+  },
+  {
+    "zeichen": "一共",
+    "pinyin": "yígòng",
+    "deutsch": "insgesamt",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "共": {
+        "pinyin": "gòng",
+        "deutsch": "zusammen, gemeinsam, insgesamt"
+      }
+    }
+  },
+  {
+    "zeichen": "银行",
+    "pinyin": "yínháng",
+    "deutsch": "Bank, Geldinstitut",
+    "komponenten": {
+      "银": {
+        "pinyin": "yín",
+        "deutsch": "Silber, Bank"
+      },
+      "行": {
+        "pinyin": "xíng/háng",
+        "deutsch": "gehen, tun; Branche, Reihe, Bank"
+      }
+    }
+  },
+  {
+    "zeichen": "一样",
+    "pinyin": "yíyàng",
+    "deutsch": "gleich, genauso",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "样": {
+        "pinyin": "yàng",
+        "deutsch": "Art, Muster, Aussehen, so"
+      }
+    }
+  },
+  {
+    "zeichen": "以后",
+    "pinyin": "yǐhòu",
+    "deutsch": "danach, später, in Zukunft, nach, nachdem, nachher",
+    "komponenten": {
+      "以": {
+        "pinyin": "yǐ",
+        "deutsch": "mit, durch, um zu"
+      },
+      "后": {
+        "pinyin": "hòu",
+        "deutsch": "danach, hinter, hinten"
+      }
+    }
+  },
+  {
+    "zeichen": "影响",
+    "pinyin": "yǐngxiǎng",
+    "deutsch": "Einfluss, beeinflussen, auswirken, Auswirkung, Effekt",
+    "komponenten": {
+      "影": {
+        "pinyin": "yǐng",
+        "deutsch": "Schatten, Bild, Film"
+      },
+      "响": {
+        "pinyin": "xiǎng",
+        "deutsch": "klingen, Einfluss"
+      }
+    }
+  },
+  {
+    "zeichen": "以前",
+    "pinyin": "yǐqián",
+    "deutsch": "früher, vorher",
+    "komponenten": {
+      "以": {
+        "pinyin": "yǐ",
+        "deutsch": "mit, durch, um zu"
+      },
+      "前": {
+        "pinyin": "qián",
+        "deutsch": "vorne, vorher, früher"
+      }
+    }
+  },
+  {
+    "zeichen": "以为",
+    "pinyin": "yǐwéi",
+    "deutsch": "denken, glauben, meinen",
+    "komponenten": {
+      "以": {
+        "pinyin": "yǐ",
+        "deutsch": "mit, durch, um zu"
+      },
+      "为": {
+        "pinyin": "wèi",
+        "deutsch": "für, tun, werden"
+      }
+    }
+  },
+  {
+    "zeichen": "一直",
+    "pinyin": "yìzhí",
+    "deutsch": "immer, ununterbrochen, die ganze Zeit, geradeaus",
+    "komponenten": {
+      "一": {
+        "pinyin": "yī",
+        "deutsch": "eins"
+      },
+      "直": {
+        "pinyin": "zhí",
+        "deutsch": "gerade, direkt, offen"
+      }
+    }
+  },
+  {
+    "zeichen": "游戏",
+    "pinyin": "yóuxì",
+    "deutsch": "Spiel, Vergnügen, Partie",
+    "komponenten": {
+      "游": {
+        "pinyin": "yóu",
+        "deutsch": "schwimmen, reisen, spielen"
+      },
+      "戏": {
+        "pinyin": "xì",
+        "deutsch": "Spiel, Theater, Drama"
+      }
+    }
+  },
+  {
+    "zeichen": "有名",
+    "pinyin": "yǒumíng",
+    "deutsch": "berühmt",
+    "komponenten": {
+      "有": {
+        "pinyin": "yǒu",
+        "deutsch": "haben, besitzen, es gibt"
+      },
+      "名": {
+        "pinyin": "míng",
+        "deutsch": "Name, berühmt"
+      }
+    }
+  },
+  {
+    "zeichen": "用",
+    "pinyin": "yòng",
+    "deutsch": "benutzen, brauchen, gebrauchen, Nutzen"
+  },
+  {
+    "zeichen": "又",
+    "pinyin": "yòu",
+    "deutsch": "wieder, noch einmal, dazu"
+  },
+  {
+    "zeichen": "云",
+    "pinyin": "yún",
+    "deutsch": "Wolke"
+  },
+  {
+    "zeichen": "遇到",
+    "pinyin": "yùdào",
+    "deutsch": "(auf jdn./etwas) stoßen, (auf jdn./etwas) treffen",
+    "komponenten": {
+      "遇": {
+        "pinyin": "yù",
+        "deutsch": "begegnen, stoßen auf"
+      },
+      "到": {
+        "pinyin": "dào",
+        "deutsch": "ankommen, erreichen, bis"
+      }
+    }
+  },
+  {
+    "zeichen": "愿意",
+    "pinyin": "yuànyì",
+    "deutsch": "wollen, bereit sein",
+    "komponenten": {
+      "愿": {
+        "pinyin": "yuàn",
+        "deutsch": "wünschen, bereit sein, wollen"
+      },
+      "意": {
+        "pinyin": "yì",
+        "deutsch": "Bedeutung, Absicht, Meinung"
+      }
+    }
+  },
+  {
+    "zeichen": "越",
+    "pinyin": "yuè",
+    "deutsch": "überwinden, überschreiten"
+  },
+  {
+    "zeichen": "月亮",
+    "pinyin": "yuèliang",
+    "deutsch": "Mond",
+    "komponenten": {
+      "月": {
+        "pinyin": "yuè",
+        "deutsch": "Mond, Monat"
+      },
+      "亮": {
+        "pinyin": "liàng",
+        "deutsch": "hell, leuchten"
+      }
+    }
+  },
+  {
+    "zeichen": "着急",
+    "pinyin": "zháojí",
+    "deutsch": "sorgen, sich aufregen, sich ärgern, beunruhigen",
+    "komponenten": {
+      "着": {
+        "pinyin": "zhe/zháo",
+        "deutsch": "Fortdauer-Partikel; berühren"
+      },
+      "急": {
+        "pinyin": "jí",
+        "deutsch": "dringend, ungeduldig, eilig"
+      }
+    }
+  },
+  {
+    "zeichen": "站",
+    "pinyin": "zhàn",
+    "deutsch": "stehen, Haltestelle, Bahnhof"
+  },
+  {
+    "zeichen": "照顾",
+    "pinyin": "zhàogù",
+    "deutsch": "aufpassen (auf), betreuen, berücksichtigen, Fürsorge",
+    "komponenten": {
+      "照": {
+        "pinyin": "zhào",
+        "deutsch": "leuchten, Foto machen, betreuen"
+      },
+      "顾": {
+        "pinyin": "gù",
+        "deutsch": "auf etw. achten, Rücksicht nehmen"
+      }
+    }
+  },
+  {
+    "zeichen": "照片",
+    "pinyin": "zhàopiàn",
+    "deutsch": "Foto",
+    "komponenten": {
+      "照": {
+        "pinyin": "zhào",
+        "deutsch": "leuchten, Foto machen, betreuen"
+      },
+      "片": {
+        "pinyin": "piàn",
+        "deutsch": "Scheibe, Stück, Foto"
+      }
+    }
+  },
+  {
+    "zeichen": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "deutsch": "Kamera, Fotoapparat",
+    "komponenten": {
+      "照": {
+        "pinyin": "zhào",
+        "deutsch": "leuchten, Foto machen, betreuen"
+      },
+      "相": {
+        "pinyin": "xiāng/xiàng",
+        "deutsch": "gegenseitig; Aussehen, Bild"
+      },
+      "机": {
+        "pinyin": "jī",
+        "deutsch": "Maschine, Gerät, Chance"
+      }
+    }
+  },
+  {
+    "zeichen": "只",
+    "pinyin": "zhǐ",
+    "deutsch": "nur, aber, allerdings"
+  },
+  {
+    "zeichen": "中间",
+    "pinyin": "zhōngjiān",
+    "deutsch": "zwischen, Mitte, mitten in",
+    "komponenten": {
+      "中": {
+        "pinyin": "zhōng",
+        "deutsch": "Mitte, China"
+      },
+      "间": {
+        "pinyin": "jiān/jiàn",
+        "deutsch": "Raum, zwischen; Abstand"
+      }
+    }
+  },
+  {
+    "zeichen": "终于",
+    "pinyin": "zhōngyú",
+    "deutsch": "endlich",
+    "komponenten": {
+      "终": {
+        "pinyin": "zhōng",
+        "deutsch": "Ende, schließlich, endlich"
+      },
+      "于": {
+        "pinyin": "yú",
+        "deutsch": "an, bei, zu, gegenüber"
+      }
+    }
+  },
+  {
+    "zeichen": "周末",
+    "pinyin": "zhōumò",
+    "deutsch": "Wochenende",
+    "komponenten": {
+      "周": {
+        "pinyin": "zhōu",
+        "deutsch": "Woche, Kreis, Umfang"
+      },
+      "末": {
+        "pinyin": "mò",
+        "deutsch": "Ende, letzter"
+      }
+    }
+  },
+  {
+    "zeichen": "种",
+    "pinyin": "zhǒng",
+    "deutsch": "Art, Sorte"
+  },
+  {
+    "zeichen": "重要",
+    "pinyin": "zhòngyào",
+    "deutsch": "wichtig, bedeutend, wesentlich",
+    "komponenten": {
+      "重": {
+        "pinyin": "zhòng/chóng",
+        "deutsch": "schwer, wichtig; wiederholt"
+      },
+      "要": {
+        "pinyin": "yào",
+        "deutsch": "wollen, brauchen, wichtig, werden"
+      }
+    }
+  },
+  {
+    "zeichen": "主要",
+    "pinyin": "zhǔyào",
+    "deutsch": "hauptsächlich, bedeutsam",
+    "komponenten": {
+      "主": {
+        "pinyin": "zhǔ",
+        "deutsch": "Herr, Haupt-"
+      },
+      "要": {
+        "pinyin": "yào",
+        "deutsch": "wollen, brauchen, wichtig, werden"
+      }
+    }
+  },
+  {
+    "zeichen": "祝",
+    "pinyin": "zhù",
+    "deutsch": "wünschen, gratulieren"
+  },
+  {
+    "zeichen": "注意",
+    "pinyin": "zhùyì",
+    "deutsch": "achten auf, aufpassen",
+    "komponenten": {
+      "注": {
+        "pinyin": "zhù",
+        "deutsch": "eingießen, konzentrieren, Anmerkung"
+      },
+      "意": {
+        "pinyin": "yì",
+        "deutsch": "Bedeutung, Absicht, Meinung"
+      }
+    }
+  },
+  {
+    "zeichen": "字典",
+    "pinyin": "zìdiǎn",
+    "deutsch": "Wörterbuch",
+    "komponenten": {
+      "字": {
+        "pinyin": "zì",
+        "deutsch": "Schriftzeichen, Buchstabe"
+      },
+      "典": {
+        "pinyin": "diǎn",
+        "deutsch": "Nachschlagewerk, klassisch"
+      }
+    }
+  },
+  {
+    "zeichen": "自己",
+    "pinyin": "zìjǐ",
+    "deutsch": "selbst",
+    "komponenten": {
+      "自": {
+        "pinyin": "zì",
+        "deutsch": "selbst, aus, von"
+      },
+      "己": {
+        "pinyin": "jǐ",
+        "deutsch": "selbst, ich (in Komposita)"
+      }
+    }
+  },
+  {
+    "zeichen": "总是",
+    "pinyin": "zǒngshì",
+    "deutsch": "immer, die ganze Zeit",
+    "komponenten": {
+      "总": {
+        "pinyin": "zǒng",
+        "deutsch": "gesamt, immer, stets"
+      },
+      "是": {
+        "pinyin": "shì",
+        "deutsch": "sein, ist"
+      }
+    }
+  },
+  {
+    "zeichen": "最近",
+    "pinyin": "zuìjìn",
+    "deutsch": "kürzlich, in letzter Zeit",
+    "komponenten": {
+      "最": {
+        "pinyin": "zuì",
+        "deutsch": "am meisten, Superlativ-Präfix"
+      },
+      "近": {
+        "pinyin": "jìn",
+        "deutsch": "nahe, kürzlich, fast"
+      }
+    }
+  },
+  {
+    "zeichen": "作业",
+    "pinyin": "zuòyè",
+    "deutsch": "Aufgabe, Hausaufgabe, Gewerk",
+    "komponenten": {
+      "作": {
+        "pinyin": "zuò",
+        "deutsch": "machen, arbeiten, schaffen"
+      },
+      "业": {
+        "pinyin": "yè",
+        "deutsch": "Beruf, Aufgabe, Branche"
+      }
+    }
+  },
+  {
+    "zeichen": "作用",
+    "pinyin": "zuòyòng",
+    "deutsch": "Wirkung, auf jdn./etw. einwirken, Funktion, Rolle, Absicht",
+    "komponenten": {
+      "作": {
+        "pinyin": "zuò",
+        "deutsch": "machen, arbeiten, schaffen"
+      },
+      "用": {
+        "pinyin": "yòng",
+        "deutsch": "benutzen, brauchen, gebrauchen, Nutzen"
+      }
+    }
+  }
+]
