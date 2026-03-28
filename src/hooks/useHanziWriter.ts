@@ -25,7 +25,7 @@ export function useHanziWriter(
       height: 280,
       padding: 10,
       charDataLoader: (c, onLoad, onError) => {
-        fetch(`/hanzi-data/${encodeURIComponent(c)}.json`)
+        fetch(`${import.meta.env.BASE_URL}hanzi-data/${encodeURIComponent(c)}.json`)
           .then((r) => {
             if (!r.ok) throw new Error(`No data for ${c}`)
             return r.json()

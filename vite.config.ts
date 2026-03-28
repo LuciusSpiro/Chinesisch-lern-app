@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: '/chinesisch-lern-app/',
+  base: '/Chinesisch-lern-app/',
   plugins: [
     react(),
     VitePWA({
@@ -36,11 +36,11 @@ export default defineConfig({
         background_color: '#ffffff',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/chinesisch-lern-app/',
+        start_url: '/Chinesisch-lern-app/',
         icons: [
-          { src: '/chinesisch-lern-app/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: '/chinesisch-lern-app/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-          { src: '/chinesisch-lern-app/icons/icon-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          { src: '/Chinesisch-lern-app/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: '/Chinesisch-lern-app/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+          { src: '/Chinesisch-lern-app/icons/icon-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
         ],
       },
     }),

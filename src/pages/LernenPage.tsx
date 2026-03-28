@@ -80,7 +80,7 @@ function LernenDeck({
       {/* Actions */}
       <div className="flex gap-3 w-full">
         <button
-          onClick={() => !isStarred && onStar(current.zeichen)}
+          onClick={() => { if (!isStarred) { onStar(current.zeichen) } goNext() }}
           disabled={isStarred}
           className={`py-3 px-5 rounded-2xl border-2 text-xl transition-all active:scale-95 ${
             isStarred

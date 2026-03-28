@@ -15,9 +15,10 @@ export function loadHanziLookup(): Promise<void> {
 
     state = 'loading'
     const script = document.createElement('script')
-    script.src = '/hanzi-lookup/HanziLookupJS.js'
+    const base = import.meta.env.BASE_URL
+    script.src = `${base}hanzi-lookup/HanziLookupJS.js`
     script.onload = () => {
-      HanziLookup.init('mmah', '/hanzi-lookup/mmah.json', () => {
+      HanziLookup.init('mmah', `${base}hanzi-lookup/mmah.json`, () => {
         state = 'loaded'
         callbacks.forEach((cb) => cb())
         callbacks.length = 0
